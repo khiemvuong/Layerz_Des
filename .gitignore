@@ -39,3 +39,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# local survey storage
+data/survey-responses.jsonl
+
+# local browser automation artifacts
+.playwright-cli/
+output/

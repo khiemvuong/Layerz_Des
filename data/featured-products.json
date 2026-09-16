@@ -1,0 +1,28 @@
+{
+  "curations": [
+    { "location": "TP. Hồ Chí Minh/Phú Nhuận", "section": "layerz-picks", "product": "bnh-hn-quc", "position": 1, "startDate": null, "endDate": null, "priority": 100 },
+    { "location": "TP. Hồ Chí Minh/Phú Nhuận", "section": "layerz-picks", "product": "bnh-kem-pink-black-ribbon-hng-en-hin-i", "position": 2, "startDate": null, "endDate": null, "priority": 100 },
+    { "location": "TP. Hồ Chí Minh/Phú Nhuận", "section": "layerz-picks", "product": "bnh-kem-di-la-trng-tri-tim-socola", "position": 3, "startDate": null, "endDate": null, "priority": 100 },
+    { "location": "TP. Hồ Chí Minh/Phú Nhuận", "section": "layerz-picks", "product": "set-bnh-kem-bento-1-2", "position": 4, "startDate": null, "endDate": null, "priority": 100 },
+
+    { "location": "TP. Hồ Chí Minh/Gò Vấp", "section": "layerz-picks", "product": "banh-kem-bap-yeu-nuoc-tp-2736", "position": 1, "startDate": null, "endDate": null, "priority": 100 },
+    { "location": "TP. Hồ Chí Minh/Gò Vấp", "section": "layerz-picks", "product": "banh-kem-tiramisu", "position": 2, "startDate": null, "endDate": null, "priority": 100 },
+    { "location": "TP. Hồ Chí Minh/Gò Vấp", "section": "layerz-picks", "product": "banh-kem-ot-giay-tp-1861", "position": 3, "startDate": null, "endDate": null, "priority": 100 },
+    { "location": "TP. Hồ Chí Minh/Gò Vấp", "section": "layerz-picks", "product": "banh-kem-ho-mini-tp-1649", "position": 4, "startDate": null, "endDate": null, "priority": 100 },
+
+    { "location": "TP. Hồ Chí Minh/Thủ Đức", "section": "layerz-picks", "product": "bnh-kem-na-nn-cu-b-vng-km-pho-sau", "position": 1, "startDate": null, "endDate": null, "priority": 100 },
+    { "location": "TP. Hồ Chí Minh/Thủ Đức", "section": "layerz-picks", "product": "banh-bento", "position": 2, "startDate": null, "endDate": null, "priority": 100 },
+    { "location": "TP. Hồ Chí Minh/Thủ Đức", "section": "layerz-picks", "product": "bnh-kem-na-nn-c-gi-vng-siu-xinh-km-pho-sau", "position": 3, "startDate": null, "endDate": null, "priority": 100 },
+    { "location": "TP. Hồ Chí Minh/Thủ Đức", "section": "layerz-picks", "product": "bnh-kem-4-chibi-v-tri-nn-mu", "position": 4, "startDate": null, "endDate": null, "priority": 100 },
+
+    { "location": "Bà Rịa - Vũng Tàu", "section": "layerz-picks", "product": "bnh-kem-tri-cy-ti-ng-tin-ti-lc", "position": 1, "startDate": null, "endDate": null, "priority": 100 },
+    { "location": "Bà Rịa - Vũng Tàu", "section": "layerz-picks", "product": "bnh-bng-lan-trng-mui-ph-ch-bng-mix-tri-cy", "position": 2, "startDate": null, "endDate": null, "priority": 100 },
+    { "location": "Bà Rịa - Vũng Tàu", "section": "layerz-picks", "product": "bnh-kem-minimalist-mt-ci-trang-tr-vit-qut", "position": 3, "startDate": null, "endDate": null, "priority": 100 },
+    { "location": "Bà Rịa - Vũng Tàu", "section": "layerz-picks", "product": "bnh-kem-tri-tim-tnh-yu-love-message", "position": 4, "startDate": null, "endDate": null, "priority": 100 },
+
+    { "location": "Bình Dương", "section": "layerz-picks", "product": "set-su-kem-gu-xinh", "position": 1, "startDate": null, "endDate": null, "priority": 100 },
+    { "location": "Bình Dương", "section": "layerz-picks", "product": "set-bento-2", "position": 2, "startDate": null, "endDate": null, "priority": 100 },
+    { "location": "Bình Dương", "section": "layerz-picks", "product": "set-bnh-kem-bento-1", "position": 3, "startDate": null, "endDate": null, "priority": 100 },
+    { "location": "Bình Dương", "section": "layerz-picks", "product": "bnh-hot-hnh-ch-b-tinh-nghch", "position": 4, "startDate": null, "endDate": null, "priority": 100 }
+  ]
+}

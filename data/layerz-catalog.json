@@ -1,0 +1,4895 @@
+{
+  "source": "https://api.layerz.vn/api",
+  "scrapedAt": "2026-09-15T13:07:53.987Z",
+  "products": [
+    {
+      "id": "07bb37ec-d4ff-45e0-b1ff-a65eabfdb66b",
+      "slug": "banh-rau-cau-trung-thu-3-vi",
+      "shopId": "62c7766c-7537-4038-8c29-b9cc379280aa",
+      "name": "Bánh rau câu Trung Thu (3 vị)",
+      "shopName": "Tiệm Bánh Dâu Tây",
+      "tags": [
+        "trung thu"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/fd33e7ad-b6fe-4270-b200-7e90af19bdf9/products/62c7766c-7537-4038-8c29-b9cc379280aa/b527459799e74fc3892f2919f8a3e930_upload_image_picker_5E0B5B49-F96C-401F-8BE3-31EE37C3236A-1760-000000723D7726E9_jpg.webp",
+      "minPrice": 110000,
+      "maxPrice": 220000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Lễ Hội",
+          "slug": "bnh-l-hi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 0,
+      "province": "Bình Dương",
+      "district": "Thủ Dầu Một"
+    },
+    {
+      "id": "3b7e432a-5189-4fb8-994b-e297fcd5752c",
+      "slug": "set-banh-trung-thu-4-vi",
+      "shopId": "1cff905f-d5c4-4c3e-85f7-867e66244437",
+      "name": "Set bánh trung thu 4 vị",
+      "shopName": "Paris Gato",
+      "tags": [
+        "bánh trung thu"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/bd019163-c112-45e8-ba57-6d08c5e6140d/products/1cff905f-d5c4-4c3e-85f7-867e66244437/08d3248d538542879a6f6fa9d0175d66_IMG_8089.webp",
+      "minPrice": 320000,
+      "maxPrice": 320000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 1,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Phú Nhuận"
+    },
+    {
+      "id": "25736d6e-5276-415e-b05f-01ce545e67db",
+      "slug": "banh-bento",
+      "shopId": "a027f395-a99a-401c-a699-4bca7168c7d4",
+      "name": "Bánh Bento",
+      "shopName": "Tiệm Bánh Huỳnh Xuyên",
+      "tags": [
+        "bento"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/c108649b-dfa9-41f2-aeca-db28f70bb2f0/products/a027f395-a99a-401c-a699-4bca7168c7d4/8283def25b5d4dccb47ccaa1ce0d6970_9f73c1f3-a7e9-41ac-8cbd-30ddbca8e8f6.webp",
+      "minPrice": 95000,
+      "maxPrice": 95000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 1,
+      "categories": [
+        {
+          "name": "Bé Trai",
+          "slug": "b-trai"
+        },
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 2,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Thủ Đức"
+    },
+    {
+      "id": "12eb18ac-93ff-4c1a-9944-6615823473f2",
+      "slug": "bnh-kem-tri-tim-tnh-yu-love-message",
+      "shopId": "82538a16-a34c-4abf-b739-df0d43cbbf0d",
+      "name": "Bánh Kem Trái Tim Tình Yêu – Love Message",
+      "shopName": "Tiệm Bánh Ánh Hương",
+      "tags": [
+        "tình yêu"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/3ab1da31-b1d6-4e0c-8ea8-4d984b99adc0/products/82538a16-a34c-4abf-b739-df0d43cbbf0d/fcfc2b02984d4905a0541890445c2119_1788275812255_7132460171583182543_7132460171583182543_eb076b3dea3b362ec9cbbfbe895f3e00.webp",
+      "minPrice": 350000,
+      "maxPrice": 350000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Lễ tình nhân",
+          "slug": "l-tnh-nhn"
+        },
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Tặng Mẹ",
+          "slug": "tng-m"
+        },
+        {
+          "name": "Lễ Hội",
+          "slug": "bnh-l-hi"
+        },
+        {
+          "name": "Bé Gái",
+          "slug": "b-gi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 3,
+      "province": "Bà Rịa - Vũng Tàu",
+      "district": "Vũng Tàu"
+    },
+    {
+      "id": "dc4edef3-ac0a-4794-af21-c21272e2ed1a",
+      "slug": "bnh-kem-tri-tim-du-ty-sweet-love",
+      "shopId": "82538a16-a34c-4abf-b739-df0d43cbbf0d",
+      "name": "Bánh Kem Trái Tim Dâu Tây – Sweet Love",
+      "shopName": "Tiệm Bánh Ánh Hương",
+      "tags": [
+        "trái cây"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/3ab1da31-b1d6-4e0c-8ea8-4d984b99adc0/products/82538a16-a34c-4abf-b739-df0d43cbbf0d/4ad0bea1dcfa4329a031855f82a6ed74_1788275812261_7132460171583182543_7132460171583182543_71e4df1b027c1cac94d61bb5efeaa34f.webp",
+      "minPrice": 350000,
+      "maxPrice": 350000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Lễ tình nhân",
+          "slug": "l-tnh-nhn"
+        },
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Tặng Mẹ",
+          "slug": "tng-m"
+        },
+        {
+          "name": "Lễ Hội",
+          "slug": "bnh-l-hi"
+        },
+        {
+          "name": "Bé Gái",
+          "slug": "b-gi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 4,
+      "province": "Bà Rịa - Vũng Tàu",
+      "district": "Vũng Tàu"
+    },
+    {
+      "id": "12db5667-f5ee-47ac-8ece-700031c7f308",
+      "slug": "bnh-kem-tri-cy-ti-hoa-cc-chc-mng-sinh-nht",
+      "shopId": "82538a16-a34c-4abf-b739-df0d43cbbf0d",
+      "name": "Bánh Kem Trái Cây Tươi Hoa Cúc – Chúc Mừng Sinh Nhật",
+      "shopName": "Tiệm Bánh Ánh Hương",
+      "tags": [
+        "trái cây"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/3ab1da31-b1d6-4e0c-8ea8-4d984b99adc0/products/82538a16-a34c-4abf-b739-df0d43cbbf0d/15cb5a8c00bc48b1878b79109e60701a_1788275812288_7132460171583182543_7132460171583182543_6762740f6b100168a9cc3a17f2d1108c.webp",
+      "minPrice": 350000,
+      "maxPrice": 400000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Lễ Hội",
+          "slug": "bnh-l-hi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 5,
+      "province": "Bà Rịa - Vũng Tàu",
+      "district": "Vũng Tàu"
+    },
+    {
+      "id": "efb67e93-a81e-478a-9bf8-b7d8c6fe9200",
+      "slug": "bnh-kem-tri-cy-ti-chc-mng-sinh-nht",
+      "shopId": "82538a16-a34c-4abf-b739-df0d43cbbf0d",
+      "name": "Bánh Kem Trái Cây Tươi – Chúc Mừng Sinh Nhật",
+      "shopName": "Tiệm Bánh Ánh Hương",
+      "tags": [
+        "trái cây"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/3ab1da31-b1d6-4e0c-8ea8-4d984b99adc0/products/82538a16-a34c-4abf-b739-df0d43cbbf0d/0872bbb314414aa3bb120239a9efb7c3_1788275812293_7132460171583182543_7132460171583182543_9fd4b70efaefceafefeea1fc85d41849.webp",
+      "minPrice": 400000,
+      "maxPrice": 450000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Lễ tình nhân",
+          "slug": "l-tnh-nhn"
+        },
+        {
+          "name": "Bé Trai",
+          "slug": "b-trai"
+        },
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Lễ Hội",
+          "slug": "bnh-l-hi"
+        },
+        {
+          "name": "Bé Gái",
+          "slug": "b-gi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": 2,
+      "sourceOrder": 6,
+      "province": "Bà Rịa - Vũng Tàu",
+      "district": "Vũng Tàu"
+    },
+    {
+      "id": "f2ca6d67-155b-40e2-a299-50b82af79823",
+      "slug": "bnh-kem-vi-bia-heineken-rt-bt-c-o",
+      "shopId": "82538a16-a34c-4abf-b739-df0d43cbbf0d",
+      "name": "Bánh Kem Vại Bia Heineken Rót Bọt Độc Đáo",
+      "shopName": "Tiệm Bánh Ánh Hương",
+      "tags": [
+        "đặc biệt",
+        "bánh kem"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/3ab1da31-b1d6-4e0c-8ea8-4d984b99adc0/products/82538a16-a34c-4abf-b739-df0d43cbbf0d/56b55048b0b94895b3bccc027a6e98b2_upload_image_picker_6F8ECFC2-2D47-4DC1-858B-CD7B76583C29-19500-0000084857BCE901_png.webp",
+      "minPrice": 500000,
+      "maxPrice": 500000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Lễ Hội",
+          "slug": "bnh-l-hi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 7,
+      "province": "Bà Rịa - Vũng Tàu",
+      "district": "Vũng Tàu"
+    },
+    {
+      "id": "71d1c99b-3962-4cce-8b88-66bb139f1389",
+      "slug": "bnh-bng-lan-trng-mui-ch-bng-sinh-nht-cao-cp",
+      "shopId": "82538a16-a34c-4abf-b739-df0d43cbbf0d",
+      "name": "Bánh Bông Lan Trứng Muối Chà Bông Sinh Nhật Cao Cấp",
+      "shopName": "Tiệm Bánh Ánh Hương",
+      "tags": [
+        "bông lan trứng muối"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/3ab1da31-b1d6-4e0c-8ea8-4d984b99adc0/products/82538a16-a34c-4abf-b739-df0d43cbbf0d/a3cacf06044348609851e48d4401dcee_upload_image_picker_EC4263DC-5369-48F0-B485-95B42CDA5805-19500-000008470FD9A772_png.webp",
+      "minPrice": 1000000,
+      "maxPrice": 1000000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Khai Trương",
+          "slug": "khai-trng"
+        },
+        {
+          "name": "Lễ Hội",
+          "slug": "bnh-l-hi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 8,
+      "province": "Bà Rịa - Vũng Tàu",
+      "district": "Vũng Tàu"
+    },
+    {
+      "id": "28cc8e7f-6f1b-41a6-bf5f-aa1204de8d21",
+      "slug": "bnh-kem-tri-tim-ngt-ngo-tng-v-yu",
+      "shopId": "82538a16-a34c-4abf-b739-df0d43cbbf0d",
+      "name": "Bánh Kem Trái Tim Đỏ Ngọt Ngào Tặng Vợ Yêu",
+      "shopName": "Tiệm Bánh Ánh Hương",
+      "tags": [
+        "tình yêu"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/3ab1da31-b1d6-4e0c-8ea8-4d984b99adc0/products/82538a16-a34c-4abf-b739-df0d43cbbf0d/152a52f6af004d53bcfef94781022169_upload_image_picker_9814A456-1DF5-4DA3-86BB-0836CF043449-19500-000008456A37A091_png.webp",
+      "minPrice": 350000,
+      "maxPrice": 350000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Lễ tình nhân",
+          "slug": "l-tnh-nhn"
+        },
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 9,
+      "province": "Bà Rịa - Vũng Tàu",
+      "district": "Vũng Tàu"
+    },
+    {
+      "id": "3e08b20b-384b-42ef-9bf5-4597097a8b64",
+      "slug": "bnh-kem-3d-vi-bia-123-z",
+      "shopId": "82538a16-a34c-4abf-b739-df0d43cbbf0d",
+      "name": "Bánh Kem 3D Vại Bia \"1...2...3... Zô!\"",
+      "shopName": "Tiệm Bánh Ánh Hương",
+      "tags": [
+        "vui nhộn"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/3ab1da31-b1d6-4e0c-8ea8-4d984b99adc0/products/82538a16-a34c-4abf-b739-df0d43cbbf0d/bd3cee51e8fa41639cedb71fcdd4b6b7_upload_image_picker_143739F8-3768-485A-BC55-B38DB4E07634-19500-00000842CD6DFDBE_png.webp",
+      "minPrice": 360000,
+      "maxPrice": 450000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Khai Trương",
+          "slug": "khai-trng"
+        },
+        {
+          "name": "Lễ Hội",
+          "slug": "bnh-l-hi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 10,
+      "province": "Bà Rịa - Vũng Tàu",
+      "district": "Vũng Tàu"
+    },
+    {
+      "id": "642d28b8-56b4-49da-b290-6667284608fd",
+      "slug": "bnh-kem-vung-tri-cy-xoi-ti-thanh-mt",
+      "shopId": "82538a16-a34c-4abf-b739-df0d43cbbf0d",
+      "name": "Bánh Kem Vuông Trái Cây Xoài Tươi Thanh Mát",
+      "shopName": "Tiệm Bánh Ánh Hương",
+      "tags": [
+        "trái cây"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/3ab1da31-b1d6-4e0c-8ea8-4d984b99adc0/products/82538a16-a34c-4abf-b739-df0d43cbbf0d/a8c0741fce6c4fea894b2ce291ef5390_upload_image_picker_D660FDCA-E780-4183-B7EE-8F5F10E04399-19500-000008411FC31A96_png.webp",
+      "minPrice": 350000,
+      "maxPrice": 550000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Khai Trương",
+          "slug": "khai-trng"
+        },
+        {
+          "name": "Lễ Hội",
+          "slug": "bnh-l-hi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 11,
+      "province": "Bà Rịa - Vũng Tàu",
+      "district": "Vũng Tàu"
+    },
+    {
+      "id": "85d72039-ca15-48ac-a9e7-3ebdd02649f8",
+      "slug": "bnh-kem-hng-ngt-ngo-trang-tr-n-tri-tim",
+      "shopId": "82538a16-a34c-4abf-b739-df0d43cbbf0d",
+      "name": "Bánh Kem Hồng Ngọt Ngào Trang Trí Nơ & Trái Tim",
+      "shopName": "Tiệm Bánh Ánh Hương",
+      "tags": [
+        "sinh nhật"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/3ab1da31-b1d6-4e0c-8ea8-4d984b99adc0/products/82538a16-a34c-4abf-b739-df0d43cbbf0d/e68e44a15cc146c183619444e3e808be_upload_image_picker_F55BF40B-17FF-4232-9FF9-A8A7FFBA2DC2-19500-0000083F57D2840B_png.webp",
+      "minPrice": 160000,
+      "maxPrice": 400000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Lễ tình nhân",
+          "slug": "l-tnh-nhn"
+        },
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 12,
+      "province": "Bà Rịa - Vũng Tàu",
+      "district": "Vũng Tàu"
+    },
+    {
+      "id": "60f98ec5-29a1-4590-b1b9-5fea1ea98c8e",
+      "slug": "bnh-kem-hoa-hng-ombre-bc-voan-sang-trng",
+      "shopId": "82538a16-a34c-4abf-b739-df0d43cbbf0d",
+      "name": "Bánh Kem Hoa Hồng Ombre Bọc Voan Sang Trọng",
+      "shopName": "Tiệm Bánh Ánh Hương",
+      "tags": [
+        "tình yêu"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/3ab1da31-b1d6-4e0c-8ea8-4d984b99adc0/products/82538a16-a34c-4abf-b739-df0d43cbbf0d/aeb894aa37784bbbb6c2b2b724ccf6e5_upload_image_picker_3CF11C48-5607-45C3-91FD-83D6E01D117F-19102-0000083C3C7FD4A6_png.webp",
+      "minPrice": 160000,
+      "maxPrice": 400000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 13,
+      "province": "Bà Rịa - Vũng Tàu",
+      "district": "Vũng Tàu"
+    },
+    {
+      "id": "8d79e4ca-35fc-4bfc-83b2-d041b0c19950",
+      "slug": "bnh-kem-mng-thi-ni",
+      "shopId": "82538a16-a34c-4abf-b739-df0d43cbbf0d",
+      "name": "Bánh kem mừng thôi nôi",
+      "shopName": "Tiệm Bánh Ánh Hương",
+      "tags": [
+        "thôi nôi"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/3ab1da31-b1d6-4e0c-8ea8-4d984b99adc0/products/82538a16-a34c-4abf-b739-df0d43cbbf0d/154931872be34267b18e8feac46bcb7d_upload_image_picker_2CDC9BA1-CC1D-4FE6-B4DA-901A5DD2020D-19102-000008388966D61C_png.webp",
+      "minPrice": 160000,
+      "maxPrice": 400000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Thôi nôi",
+          "slug": "bnh-s-kin-doanh-nghip"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 14,
+      "province": "Bà Rịa - Vũng Tàu",
+      "district": "Vũng Tàu"
+    },
+    {
+      "id": "b9a91571-addb-495d-b149-d42652ffed6a",
+      "slug": "bnh-kem-3d-nhn-vt-hot-hnh-ng-nghnh",
+      "shopId": "82538a16-a34c-4abf-b739-df0d43cbbf0d",
+      "name": "Bánh Kem 3D Nhân Vật Hoạt Hình Ngộ Nghĩnh",
+      "shopName": "Tiệm Bánh Ánh Hương",
+      "tags": [
+        "hoạt hình"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/3ab1da31-b1d6-4e0c-8ea8-4d984b99adc0/products/82538a16-a34c-4abf-b739-df0d43cbbf0d/3ab3ac8f8b964be0b4a884600f29e5bd_upload_image_picker_CEFCE6FE-23E1-4EAD-91CB-9C4EF71A2012-19102-0000083695DB6C5B_png.webp",
+      "minPrice": 160000,
+      "maxPrice": 400000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 15,
+      "province": "Bà Rịa - Vũng Tàu",
+      "district": "Vũng Tàu"
+    },
+    {
+      "id": "a2f78a3a-494b-491c-a612-106a6c8436ad",
+      "slug": "bnh-kem-minimalist-mt-ci-trang-tr-vit-qut",
+      "shopId": "82538a16-a34c-4abf-b739-df0d43cbbf0d",
+      "name": "Bánh Kem Minimalist Mặt Cười Trang Trí Việt Quất",
+      "shopName": "Tiệm Bánh Ánh Hương",
+      "tags": [
+        "vui nhộn"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/3ab1da31-b1d6-4e0c-8ea8-4d984b99adc0/products/82538a16-a34c-4abf-b739-df0d43cbbf0d/037d5666561a4e06b2a920a5d57333c4_1788277186389_185057713874230437_1447030634439135008_1ddd4d1a983e450fdd824b6e36b71647.webp",
+      "minPrice": 160000,
+      "maxPrice": 400000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 1,
+      "categories": [
+        {
+          "name": "Lễ tình nhân",
+          "slug": "l-tnh-nhn"
+        },
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 16,
+      "province": "Bà Rịa - Vũng Tàu",
+      "district": "Vũng Tàu"
+    },
+    {
+      "id": "a422ac8d-ac41-4a4c-aee6-08e48661089d",
+      "slug": "bnh-kem-3d-ly-bia-hi-hc",
+      "shopId": "82538a16-a34c-4abf-b739-df0d43cbbf0d",
+      "name": "Bánh Kem 3D Ly Bia Hài Hước",
+      "shopName": "Tiệm Bánh Ánh Hương",
+      "tags": [
+        "ly bia"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/3ab1da31-b1d6-4e0c-8ea8-4d984b99adc0/products/82538a16-a34c-4abf-b739-df0d43cbbf0d/d969abf8031145bc9842efd027c0ad6b_upload_image_picker_4B8AD194-D9BF-4196-A930-9960A89CA675-19102-0000083307235BA7_png.webp",
+      "minPrice": 360000,
+      "maxPrice": 450000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 17,
+      "province": "Bà Rịa - Vũng Tàu",
+      "district": "Vũng Tàu"
+    },
+    {
+      "id": "fad11c5c-bde0-452e-a9a9-baac65b889e9",
+      "slug": "bnh-kem-trng-tinh-khi-i-vng-min-bc",
+      "shopId": "82538a16-a34c-4abf-b739-df0d43cbbf0d",
+      "name": "Bánh Kem Trắng Tinh Khôi Đội Vương Miện Bạc",
+      "shopName": "Tiệm Bánh Ánh Hương",
+      "tags": [
+        "vương miện"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/3ab1da31-b1d6-4e0c-8ea8-4d984b99adc0/products/82538a16-a34c-4abf-b739-df0d43cbbf0d/db40ce6dff8e4e62a6dace4217737c0c_upload_image_picker_DCE7EF0F-AF5C-4009-9EDC-AD89F5C29D00-19102-0000083046FA4D24_png.webp",
+      "minPrice": 160000,
+      "maxPrice": 400000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 18,
+      "province": "Bà Rịa - Vũng Tàu",
+      "district": "Vũng Tàu"
+    },
+    {
+      "id": "7843b290-cfc6-4d07-959d-4cdbacc46f47",
+      "slug": "bnh-kem-3d-tri-to-d-thng",
+      "shopId": "82538a16-a34c-4abf-b739-df0d43cbbf0d",
+      "name": "Bánh Kem 3D Trái Táo Đỏ Dễ Thương",
+      "shopName": "Tiệm Bánh Ánh Hương",
+      "tags": [
+        "tạo hình"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/3ab1da31-b1d6-4e0c-8ea8-4d984b99adc0/products/82538a16-a34c-4abf-b739-df0d43cbbf0d/33e4422110084d0d93cc9e0a3826ae2c_upload_image_picker_20348976-73B7-4E97-A73B-6C3B8E68301E-18937-0000082B8D2FC86B_png.webp",
+      "minPrice": 320000,
+      "maxPrice": 550000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Bé Trai",
+          "slug": "b-trai"
+        },
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Tạo Hình",
+          "slug": "to-hnh"
+        },
+        {
+          "name": "Bé Gái",
+          "slug": "b-gi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 19,
+      "province": "Bà Rịa - Vũng Tàu",
+      "district": "Vũng Tàu"
+    },
+    {
+      "id": "5184d2b1-0161-47c1-b16c-7e5b9517f87c",
+      "slug": "bnh-kem-tri-cy-ti-ng-tin-ti-lc",
+      "shopId": "82538a16-a34c-4abf-b739-df0d43cbbf0d",
+      "name": "Bánh Kem Trái Cây Tươi & Đồng Tiền Tài Lộc",
+      "shopName": "Tiệm Bánh Ánh Hương",
+      "tags": [
+        "trái cây"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/3ab1da31-b1d6-4e0c-8ea8-4d984b99adc0/products/82538a16-a34c-4abf-b739-df0d43cbbf0d/aa28d33ffd984097bf1ab4a559cf6fab_upload_image_picker_8F701E15-C1E9-48E5-9119-A207807F7B78-18808-0000082859E76060_png.webp",
+      "minPrice": 160000,
+      "maxPrice": 400000,
+      "rating": 5,
+      "reviewCount": 1,
+      "totalSold": 1,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 20,
+      "province": "Bà Rịa - Vũng Tàu",
+      "district": "Vũng Tàu"
+    },
+    {
+      "id": "06374af6-2968-43d8-8cc3-9b295debef7e",
+      "slug": "bnh-kem-ch-tic-tng-phi-mnh",
+      "shopId": "82538a16-a34c-4abf-b739-df0d43cbbf0d",
+      "name": "Bánh Kem Chủ Đề Tiệc Tùng Phái Mạnh",
+      "shopName": "Tiệm Bánh Ánh Hương",
+      "tags": [
+        "tiệc tùng"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/3ab1da31-b1d6-4e0c-8ea8-4d984b99adc0/products/82538a16-a34c-4abf-b739-df0d43cbbf0d/0b72b0f06c5e4ae9b37cd56a64749f1f_upload_image_picker_B71BA2AB-ADDD-4621-AD04-783325D831EC-18650-0000081C8338FA23_png.webp",
+      "minPrice": 160000,
+      "maxPrice": 400000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Lễ Hội",
+          "slug": "bnh-l-hi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 21,
+      "province": "Bà Rịa - Vũng Tàu",
+      "district": "Vũng Tàu"
+    },
+    {
+      "id": "97e93769-850d-4a9b-8ca8-aa4677abc9af",
+      "slug": "bnh-kem-3d-1-2-3-dz-tic-tng-hi-hc",
+      "shopId": "82538a16-a34c-4abf-b739-df0d43cbbf0d",
+      "name": "Bánh Kem 3D \"1 2 3 Dzô\" Tiệc Tùng Hài Hước",
+      "shopName": "Tiệm Bánh Ánh Hương",
+      "tags": [
+        "tạo hình"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/3ab1da31-b1d6-4e0c-8ea8-4d984b99adc0/products/82538a16-a34c-4abf-b739-df0d43cbbf0d/40310c05b84342b68c86c516920aedee_upload_image_picker_00B2CAB4-A82E-4D31-A5AD-71A53B3F65A7-18462-0000080B4F38C0CD_png.webp",
+      "minPrice": 160000,
+      "maxPrice": 400000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Bé Trai",
+          "slug": "b-trai"
+        },
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Tạo Hình",
+          "slug": "to-hnh"
+        },
+        {
+          "name": "Bé Gái",
+          "slug": "b-gi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 22,
+      "province": "Bà Rịa - Vũng Tàu",
+      "district": "Vũng Tàu"
+    },
+    {
+      "id": "7ec9f3c7-37c2-4514-a21e-b757b5951d93",
+      "slug": "bnh-kem-3d-th-trng-tone-pastel-d-thng",
+      "shopId": "82538a16-a34c-4abf-b739-df0d43cbbf0d",
+      "name": "Bánh Kem 3D Thỏ Trắng Tone Pastel Dễ Thương",
+      "shopName": "Tiệm Bánh Ánh Hương",
+      "tags": [
+        "tạo hình"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/3ab1da31-b1d6-4e0c-8ea8-4d984b99adc0/products/82538a16-a34c-4abf-b739-df0d43cbbf0d/d43054935bc44262b5cdbc69fa58cce5_upload_image_picker_33E02272-E5C9-46B6-B817-1F483FEDAF95-18245-0000080712E90FE6_png.webp",
+      "minPrice": 160000,
+      "maxPrice": 400000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Tạo Hình",
+          "slug": "to-hnh"
+        },
+        {
+          "name": "Bé Gái",
+          "slug": "b-gi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 23,
+      "province": "Bà Rịa - Vũng Tàu",
+      "district": "Vũng Tàu"
+    },
+    {
+      "id": "b7465f7e-e123-4de0-9ed5-e562c3125e10",
+      "slug": "bnh-kem-tri-tim-in-nh-theo-yu-cu",
+      "shopId": "82538a16-a34c-4abf-b739-df0d43cbbf0d",
+      "name": "Bánh Kem Trái Tim In Ảnh Theo Yêu Cầu",
+      "shopName": "Tiệm Bánh Ánh Hương",
+      "tags": [
+        "tạo hình"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/3ab1da31-b1d6-4e0c-8ea8-4d984b99adc0/products/82538a16-a34c-4abf-b739-df0d43cbbf0d/4b1ff20b052241c693b643e8e6fe1831_upload_image_picker_0F9A33C9-6D4C-447B-B7AA-EC8ED6C33CAB-18245-0000080316C8B210_png.webp",
+      "minPrice": 160000,
+      "maxPrice": 400000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Tặng Mẹ",
+          "slug": "tng-m"
+        },
+        {
+          "name": "Tạo Hình",
+          "slug": "to-hnh"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 24,
+      "province": "Bà Rịa - Vũng Tàu",
+      "district": "Vũng Tàu"
+    },
+    {
+      "id": "f5beceb5-37e8-4383-8764-34e44f18dadc",
+      "slug": "bnh-kem-su-ring-ti-mix-nho-xanh-du-ty",
+      "shopId": "82538a16-a34c-4abf-b739-df0d43cbbf0d",
+      "name": "Bánh Kem Sầu Riêng Tươi Mix Nho Xanh & Dâu Tây",
+      "shopName": "Tiệm Bánh Ánh Hương",
+      "tags": [
+        "sầu riêng"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/3ab1da31-b1d6-4e0c-8ea8-4d984b99adc0/products/82538a16-a34c-4abf-b739-df0d43cbbf0d/99f62d934c82449eaf6553f80cc194c9_upload_image_picker_FB1241ED-B273-4963-8460-B9029BFFCAF2-17728-000007A8EE122B4B_png.webp",
+      "minPrice": 800000,
+      "maxPrice": 800000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Lễ Hội",
+          "slug": "bnh-l-hi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 25,
+      "province": "Bà Rịa - Vũng Tàu",
+      "district": "Vũng Tàu"
+    },
+    {
+      "id": "92f35b98-78c2-47db-9b0f-f438c61bed11",
+      "slug": "bnh-kem-tone-hng-pastel-trang-tr-du-ty-phong-cch-vintage",
+      "shopId": "82538a16-a34c-4abf-b739-df0d43cbbf0d",
+      "name": "Bánh Kem Tone Hồng Pastel Trang Trí Dâu Tây Phong Cách Vintage",
+      "shopName": "Tiệm Bánh Ánh Hương",
+      "tags": [
+        "dâu tây"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/3ab1da31-b1d6-4e0c-8ea8-4d984b99adc0/products/82538a16-a34c-4abf-b739-df0d43cbbf0d/368abb7395fd4ada96dfe48304009cbc_upload_image_picker_0F53B513-EA84-4AF6-896D-B34AA98027F7-17728-000007A7A6EDCFAB_jpg.webp",
+      "minPrice": 160000,
+      "maxPrice": 160000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Lễ tình nhân",
+          "slug": "l-tnh-nhn"
+        },
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Lễ Hội",
+          "slug": "bnh-l-hi"
+        },
+        {
+          "name": "Tạo Hình",
+          "slug": "to-hnh"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 26,
+      "province": "Bà Rịa - Vũng Tàu",
+      "district": "Vũng Tàu"
+    },
+    {
+      "id": "ea91cff8-9527-41a3-bfee-4eb8bbdacab6",
+      "slug": "bnh-kem-tone-hng-ph-si-n",
+      "shopId": "82538a16-a34c-4abf-b739-df0d43cbbf0d",
+      "name": "Bánh Kem Tone Hồng Phủ Sợi Nơ Đỏ",
+      "shopName": "Tiệm Bánh Ánh Hương",
+      "tags": [
+        "tạo hình"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/3ab1da31-b1d6-4e0c-8ea8-4d984b99adc0/products/82538a16-a34c-4abf-b739-df0d43cbbf0d/d308bb239e164aaa9df89c41b4049c50_upload_image_picker_1097B077-EEB6-4E76-A282-B08A0138263E-17728-000007A5FB67758F_png.webp",
+      "minPrice": 280000,
+      "maxPrice": 280000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Lễ tình nhân",
+          "slug": "l-tnh-nhn"
+        },
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Bé Gái",
+          "slug": "b-gi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 27,
+      "province": "Bà Rịa - Vũng Tàu",
+      "district": "Vũng Tàu"
+    },
+    {
+      "id": "bba9c99e-f4ec-4074-aa05-d7e175032232",
+      "slug": "bnh-bng-lan-trng-mui-ph-ch-bng-mix-tri-cy",
+      "shopId": "82538a16-a34c-4abf-b739-df0d43cbbf0d",
+      "name": "Bánh Bông Lan Trứng Muối Phủ Chà Bông Mix Trái Cây",
+      "shopName": "Tiệm Bánh Ánh Hương",
+      "tags": [
+        "trứng muối"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/3ab1da31-b1d6-4e0c-8ea8-4d984b99adc0/products/82538a16-a34c-4abf-b739-df0d43cbbf0d/b0aa35600dd7493e98a92266677f9648_upload_image_picker_7D0C5093-EC04-4FCD-A9AE-61A7FBFA78E7-17728-0000079FC9250183_png.webp",
+      "minPrice": 320000,
+      "maxPrice": 320000,
+      "rating": 5,
+      "reviewCount": 1,
+      "totalSold": 1,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Lễ Hội",
+          "slug": "bnh-l-hi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 28,
+      "province": "Bà Rịa - Vũng Tàu",
+      "district": "Vũng Tàu"
+    },
+    {
+      "id": "77503767-2da4-4fdf-b621-4276b0caac66",
+      "slug": "bnh-kem-3d-hello-kitty-ha-trang-cua-hng",
+      "shopId": "82538a16-a34c-4abf-b739-df0d43cbbf0d",
+      "name": "Bánh Kem 3D Hello Kitty Hóa Trang Cua Hồng",
+      "shopName": "Tiệm Bánh Ánh Hương",
+      "tags": [
+        "tạo hình"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/3ab1da31-b1d6-4e0c-8ea8-4d984b99adc0/products/82538a16-a34c-4abf-b739-df0d43cbbf0d/92737002dd794a68a4834c56cd5dd09c_9912af1f-c0a3-41e9-b8f3-ea4d53614e7c.webp",
+      "minPrice": 370000,
+      "maxPrice": 370000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Tạo Hình",
+          "slug": "to-hnh"
+        },
+        {
+          "name": "Bé Gái",
+          "slug": "b-gi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 29,
+      "province": "Bà Rịa - Vũng Tàu",
+      "district": "Vũng Tàu"
+    },
+    {
+      "id": "611469dd-e8c2-4794-9046-121a14356113",
+      "slug": "bnh-kem-du-ty-tht-n-phong-cch-hn-quc",
+      "shopId": "82538a16-a34c-4abf-b739-df0d43cbbf0d",
+      "name": "Bánh Kem Dâu Tây Thắt Nơ Phong Cách Hàn Quốc",
+      "shopName": "Tiệm Bánh Ánh Hương",
+      "tags": [
+        "hàn quốc"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/3ab1da31-b1d6-4e0c-8ea8-4d984b99adc0/products/82538a16-a34c-4abf-b739-df0d43cbbf0d/da593349a57a4b508146ced0f7d630d9_upload_image_picker_6FBE47FE-DCB5-463A-B11C-3F4E6037E080-17513-00000790E1616376_png.webp",
+      "minPrice": 230000,
+      "maxPrice": 230000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Lễ Hội",
+          "slug": "bnh-l-hi"
+        },
+        {
+          "name": "Bé Gái",
+          "slug": "b-gi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 30,
+      "province": "Bà Rịa - Vũng Tàu",
+      "district": "Vũng Tàu"
+    },
+    {
+      "id": "4da5bc3b-9b57-48ff-a61d-bbd64d6e88e4",
+      "slug": "bnh-kem-tone-trng-en-phong-cch-ti-gin",
+      "shopId": "82538a16-a34c-4abf-b739-df0d43cbbf0d",
+      "name": "Bánh Kem Tone Trắng Đen Phong Cách Tối Giản",
+      "shopName": "Tiệm Bánh Ánh Hương",
+      "tags": [
+        "tình yêu"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/3ab1da31-b1d6-4e0c-8ea8-4d984b99adc0/products/82538a16-a34c-4abf-b739-df0d43cbbf0d/6a95def375db40a8996bedbd32600c02_upload_image_picker_B5E0C6F5-EB13-49A3-8C2C-D434F0EE876F-17513-0000078F5033C38E_png.webp",
+      "minPrice": 230000,
+      "maxPrice": 230000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Lễ tình nhân",
+          "slug": "l-tnh-nhn"
+        },
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 31,
+      "province": "Bà Rịa - Vũng Tàu",
+      "district": "Vũng Tàu"
+    },
+    {
+      "id": "fcb00a66-3e3c-4451-b987-1da23b4f31db",
+      "slug": "bnh-kem-vng-min-bc-n-hng",
+      "shopId": "82538a16-a34c-4abf-b739-df0d43cbbf0d",
+      "name": "Bánh Kem Vương Miện Bạc Nơ Hồng",
+      "shopName": "Tiệm Bánh Ánh Hương",
+      "tags": [
+        "tình yêu"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/3ab1da31-b1d6-4e0c-8ea8-4d984b99adc0/products/82538a16-a34c-4abf-b739-df0d43cbbf0d/ea1ae5a2d7da4afa93d74760ab5e726a_upload_image_picker_9729ABBC-CB37-40AA-9DD2-72C220613851-17513-0000078D6F1906A1_png.webp",
+      "minPrice": 250000,
+      "maxPrice": 250000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Lễ tình nhân",
+          "slug": "l-tnh-nhn"
+        },
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Bé Gái",
+          "slug": "b-gi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 32,
+      "province": "Bà Rịa - Vũng Tàu",
+      "district": "Vũng Tàu"
+    },
+    {
+      "id": "3b2ed6ff-0743-4d3a-adad-a9befb83c6e5",
+      "slug": "bnh-kem-ph-chanh-dy-tri-cy-ti",
+      "shopId": "82538a16-a34c-4abf-b739-df0d43cbbf0d",
+      "name": "Bánh Kem Phủ Chanh Dây Trái Cây Tươi",
+      "shopName": "Tiệm Bánh Ánh Hương",
+      "tags": [
+        "trái cây"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/3ab1da31-b1d6-4e0c-8ea8-4d984b99adc0/products/82538a16-a34c-4abf-b739-df0d43cbbf0d/3fd682eae9c2406ba71568aecf43705e_upload_image_picker_87714C7A-038D-449C-B4FA-1DB5F2139390-17463-0000078A6FC82CCF_png.webp",
+      "minPrice": 230000,
+      "maxPrice": 230000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Lễ Hội",
+          "slug": "bnh-l-hi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 33,
+      "province": "Bà Rịa - Vũng Tàu",
+      "district": "Vũng Tàu"
+    },
+    {
+      "id": "88a386b5-5ad3-4174-984d-ec4b5cea65a0",
+      "slug": "set-bnh-kem-bento-3",
+      "shopId": "1cff905f-d5c4-4c3e-85f7-867e66244437",
+      "name": "Set Bánh Kem Bento 3",
+      "shopName": "Paris Gato",
+      "tags": [
+        "bento mini"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/bd019163-c112-45e8-ba57-6d08c5e6140d/products/1cff905f-d5c4-4c3e-85f7-867e66244437/6522142730d643fcb40e834d41003239_set3.webp",
+      "minPrice": 90000,
+      "maxPrice": 90000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 34,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Phú Nhuận"
+    },
+    {
+      "id": "a5564ddb-0366-43b9-9531-04f3c993eaea",
+      "slug": "set-bnh-kem-bento-2",
+      "shopId": "1cff905f-d5c4-4c3e-85f7-867e66244437",
+      "name": "Set Bánh Kem Bento 2",
+      "shopName": "Paris Gato",
+      "tags": [
+        "bento mini"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/bd019163-c112-45e8-ba57-6d08c5e6140d/products/1cff905f-d5c4-4c3e-85f7-867e66244437/4e485d3856d845f1b6ecba38f1325f9e_2vip.webp",
+      "minPrice": 90000,
+      "maxPrice": 90000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 35,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Phú Nhuận"
+    },
+    {
+      "id": "600ebb99-e2ed-47f9-b2c2-4efd8b95306b",
+      "slug": "set-bnh-kem-bento-1-2",
+      "shopId": "1cff905f-d5c4-4c3e-85f7-867e66244437",
+      "name": "Set Bánh Kem Bento 1",
+      "shopName": "Paris Gato",
+      "tags": [
+        "bento mini"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/bd019163-c112-45e8-ba57-6d08c5e6140d/products/1cff905f-d5c4-4c3e-85f7-867e66244437/28f3c16228bb4446a1e5a108dd8d30b5_1vip.webp",
+      "minPrice": 90000,
+      "maxPrice": 90000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 2,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 36,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Phú Nhuận"
+    },
+    {
+      "id": "a86db8bc-4137-4678-9da9-5135059a8ef6",
+      "slug": "set-bnh-mix-v-4-bnh",
+      "shopId": "62c7766c-7537-4038-8c29-b9cc379280aa",
+      "name": "Set Bánh Mix Vị  (4 Bánh) ",
+      "shopName": "Tiệm Bánh Dâu Tây",
+      "tags": [
+        "mix vị"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/fd33e7ad-b6fe-4270-b200-7e90af19bdf9/products/62c7766c-7537-4038-8c29-b9cc379280aa/038b3ffc1f1e4f74bb79bcdfa59ba05b_mixvi.webp",
+      "minPrice": 200000,
+      "maxPrice": 200000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 2,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Lễ Hội",
+          "slug": "bnh-l-hi"
+        },
+        {
+          "name": "Bé Gái",
+          "slug": "b-gi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 37,
+      "province": "Bình Dương",
+      "district": "Thủ Dầu Một"
+    },
+    {
+      "id": "8b38c676-1724-447c-b6e9-f77db52c56f6",
+      "slug": "bnh-kem-gu-xanh-l-d-thng",
+      "shopId": "62c7766c-7537-4038-8c29-b9cc379280aa",
+      "name": "Bánh Kem Gấu Xanh Lá Dễ Thương",
+      "shopName": "Tiệm Bánh Dâu Tây",
+      "tags": [
+        "hoạt hình"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/fd33e7ad-b6fe-4270-b200-7e90af19bdf9/products/62c7766c-7537-4038-8c29-b9cc379280aa/54c0ea4e505d4397887e5142df85356f_b__xanh.webp",
+      "minPrice": 250000,
+      "maxPrice": 250000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Bé Trai",
+          "slug": "b-trai"
+        },
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Lễ Hội",
+          "slug": "bnh-l-hi"
+        },
+        {
+          "name": "Tạo Hình",
+          "slug": "to-hnh"
+        },
+        {
+          "name": "Bé Gái",
+          "slug": "b-gi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 38,
+      "province": "Bình Dương",
+      "district": "Thủ Dầu Một"
+    },
+    {
+      "id": "d94e7731-638b-4c4d-9ff9-fb2b3806f420",
+      "slug": "bnh-kem-gu-vng-d-thng",
+      "shopId": "62c7766c-7537-4038-8c29-b9cc379280aa",
+      "name": "Bánh Kem Gấu Vàng Dễ Thương",
+      "shopName": "Tiệm Bánh Dâu Tây",
+      "tags": [
+        "tạo hình"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/fd33e7ad-b6fe-4270-b200-7e90af19bdf9/products/62c7766c-7537-4038-8c29-b9cc379280aa/b9326798db4344dc89c211e0eb98acb4_G_u_v_ng.webp",
+      "minPrice": 250000,
+      "maxPrice": 250000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Bé Trai",
+          "slug": "b-trai"
+        },
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Lễ Hội",
+          "slug": "bnh-l-hi"
+        },
+        {
+          "name": "Tạo Hình",
+          "slug": "to-hnh"
+        },
+        {
+          "name": "Bé Gái",
+          "slug": "b-gi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 39,
+      "province": "Bình Dương",
+      "district": "Thủ Dầu Một"
+    },
+    {
+      "id": "3eedda3d-6c28-49d0-a450-5ba0bc833d5e",
+      "slug": "bnh-tiramisu-trang-tr-tri-cy",
+      "shopId": "62c7766c-7537-4038-8c29-b9cc379280aa",
+      "name": "Bánh Tiramisu Trang Trí Trái Cây",
+      "shopName": "Tiệm Bánh Dâu Tây",
+      "tags": [
+        "tiramisu"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/fd33e7ad-b6fe-4270-b200-7e90af19bdf9/products/62c7766c-7537-4038-8c29-b9cc379280aa/c13ac6666555483db45bd3555eab4a0c_tisu4.webp",
+      "minPrice": 350000,
+      "maxPrice": 350000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Tặng Mẹ",
+          "slug": "tng-m"
+        },
+        {
+          "name": "Lễ Hội",
+          "slug": "bnh-l-hi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 40,
+      "province": "Bình Dương",
+      "district": "Thủ Dầu Một"
+    },
+    {
+      "id": "e0faba86-a1a0-4746-a23d-c1f86498a646",
+      "slug": "bnh-tiramisu-trang-tr-du-ty-d-thng",
+      "shopId": "62c7766c-7537-4038-8c29-b9cc379280aa",
+      "name": "Bánh Tiramisu Trang Trí Dâu Tây Dễ Thương",
+      "shopName": "Tiệm Bánh Dâu Tây",
+      "tags": [
+        "tiramisu"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/fd33e7ad-b6fe-4270-b200-7e90af19bdf9/products/62c7766c-7537-4038-8c29-b9cc379280aa/b0da657f6bb844899d777bf2002e4c14_tisu3.webp",
+      "minPrice": 350000,
+      "maxPrice": 350000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Lễ tình nhân",
+          "slug": "l-tnh-nhn"
+        },
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Tặng Mẹ",
+          "slug": "tng-m"
+        },
+        {
+          "name": "Lễ Hội",
+          "slug": "bnh-l-hi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 41,
+      "province": "Bình Dương",
+      "district": "Thủ Dầu Một"
+    },
+    {
+      "id": "4e54eef3-5594-4e20-aef5-1141cb8afd64",
+      "slug": "bnh-tiramisu-trang-tr-d-thng",
+      "shopId": "62c7766c-7537-4038-8c29-b9cc379280aa",
+      "name": "Bánh Tiramisu trang trí dễ thương",
+      "shopName": "Tiệm Bánh Dâu Tây",
+      "tags": [
+        "tiramisu"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/fd33e7ad-b6fe-4270-b200-7e90af19bdf9/products/62c7766c-7537-4038-8c29-b9cc379280aa/d8f0eb5644bf4ddb8ee434e206eed861_tisu2.webp",
+      "minPrice": 350000,
+      "maxPrice": 350000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Lễ tình nhân",
+          "slug": "l-tnh-nhn"
+        },
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Tặng Mẹ",
+          "slug": "tng-m"
+        },
+        {
+          "name": "Lễ Hội",
+          "slug": "bnh-l-hi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 42,
+      "province": "Bình Dương",
+      "district": "Thủ Dầu Một"
+    },
+    {
+      "id": "39688418-3a82-4b42-997b-798f8d062de0",
+      "slug": "bnh-tiramisu-du-ty",
+      "shopId": "62c7766c-7537-4038-8c29-b9cc379280aa",
+      "name": "Bánh Tiramisu Dâu Tây",
+      "shopName": "Tiệm Bánh Dâu Tây",
+      "tags": [
+        "tiramisu"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/fd33e7ad-b6fe-4270-b200-7e90af19bdf9/products/62c7766c-7537-4038-8c29-b9cc379280aa/d9afd8507656493caac5859441dc6205_tisu1.webp",
+      "minPrice": 350000,
+      "maxPrice": 350000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Tốt nghiệp",
+          "slug": "tt-nghip"
+        },
+        {
+          "name": "Tặng Mẹ",
+          "slug": "tng-m"
+        },
+        {
+          "name": "Lễ Hội",
+          "slug": "bnh-l-hi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 43,
+      "province": "Bình Dương",
+      "district": "Thủ Dầu Một"
+    },
+    {
+      "id": "dfb34d5e-4a50-4650-a598-ef15904e97ff",
+      "slug": "bnh-kem-hoa-ngh-thut",
+      "shopId": "62c7766c-7537-4038-8c29-b9cc379280aa",
+      "name": "Bánh Kem Hoa Nghệ Thuật",
+      "shopName": "Tiệm Bánh Dâu Tây",
+      "tags": [
+        "bánh hoa"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/fd33e7ad-b6fe-4270-b200-7e90af19bdf9/products/62c7766c-7537-4038-8c29-b9cc379280aa/166e21e9f3d94fe4a1a2b99acb6556d2_B_nh_hoa.webp",
+      "minPrice": 300000,
+      "maxPrice": 300000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Lễ tình nhân",
+          "slug": "l-tnh-nhn"
+        },
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Tặng Mẹ",
+          "slug": "tng-m"
+        },
+        {
+          "name": "Bé Gái",
+          "slug": "b-gi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 44,
+      "province": "Bình Dương",
+      "district": "Thủ Dầu Một"
+    },
+    {
+      "id": "31e97490-0630-47c5-9823-58c73ea243a7",
+      "slug": "bnh-kem-to-hnh-gu-cute",
+      "shopId": "62c7766c-7537-4038-8c29-b9cc379280aa",
+      "name": "Bánh Kem Tạo HÌnh Gấu Cute",
+      "shopName": "Tiệm Bánh Dâu Tây",
+      "tags": [
+        "tạo hình"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/fd33e7ad-b6fe-4270-b200-7e90af19bdf9/products/62c7766c-7537-4038-8c29-b9cc379280aa/38f8bb87495046288f557556e6a02802_T_o_h_nh_g_u.webp",
+      "minPrice": 500000,
+      "maxPrice": 500000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Bé Trai",
+          "slug": "b-trai"
+        },
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Thôi nôi",
+          "slug": "bnh-s-kin-doanh-nghip"
+        },
+        {
+          "name": "Tạo Hình",
+          "slug": "to-hnh"
+        },
+        {
+          "name": "Bé Gái",
+          "slug": "b-gi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 45,
+      "province": "Bình Dương",
+      "district": "Thủ Dầu Một"
+    },
+    {
+      "id": "d3033f8c-eaa7-493b-8cb2-eccf18d1b396",
+      "slug": "thp-bnh-donut-style-bin-c",
+      "shopId": "62c7766c-7537-4038-8c29-b9cc379280aa",
+      "name": "Tháp Bánh Donut Style Biển Cả",
+      "shopName": "Tiệm Bánh Dâu Tây",
+      "tags": [
+        "donut"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/fd33e7ad-b6fe-4270-b200-7e90af19bdf9/products/62c7766c-7537-4038-8c29-b9cc379280aa/50bc55dbc3674d70b6fad86c00db82bb_Th_p_dounus.webp",
+      "minPrice": 600000,
+      "maxPrice": 600000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Lễ tình nhân",
+          "slug": "l-tnh-nhn"
+        },
+        {
+          "name": "Bé Trai",
+          "slug": "b-trai"
+        },
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Tốt nghiệp",
+          "slug": "tt-nghip"
+        },
+        {
+          "name": "Tặng Mẹ",
+          "slug": "tng-m"
+        },
+        {
+          "name": "Lễ Hội",
+          "slug": "bnh-l-hi"
+        },
+        {
+          "name": "Thôi nôi",
+          "slug": "bnh-s-kin-doanh-nghip"
+        },
+        {
+          "name": "Bé Gái",
+          "slug": "b-gi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 46,
+      "province": "Bình Dương",
+      "district": "Thủ Dầu Một"
+    },
+    {
+      "id": "1f3037b5-c89c-4eea-a6ab-0767e0a7dc22",
+      "slug": "thp-bnh-donut-20-bnh",
+      "shopId": "62c7766c-7537-4038-8c29-b9cc379280aa",
+      "name": "Tháp Bánh Donut (20 bánh)",
+      "shopName": "Tiệm Bánh Dâu Tây",
+      "tags": [
+        "donut"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/fd33e7ad-b6fe-4270-b200-7e90af19bdf9/products/62c7766c-7537-4038-8c29-b9cc379280aa/7e6430f9caf3462d9a6ea4dd23e32edd_thap_donut.webp",
+      "minPrice": 450000,
+      "maxPrice": 450000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Lễ tình nhân",
+          "slug": "l-tnh-nhn"
+        },
+        {
+          "name": "Bé Trai",
+          "slug": "b-trai"
+        },
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Tốt nghiệp",
+          "slug": "tt-nghip"
+        },
+        {
+          "name": "Tặng Mẹ",
+          "slug": "tng-m"
+        },
+        {
+          "name": "Khai Trương",
+          "slug": "khai-trng"
+        },
+        {
+          "name": "Lễ Hội",
+          "slug": "bnh-l-hi"
+        },
+        {
+          "name": "Thôi nôi",
+          "slug": "bnh-s-kin-doanh-nghip"
+        },
+        {
+          "name": "Bé Gái",
+          "slug": "b-gi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 47,
+      "province": "Bình Dương",
+      "district": "Thủ Dầu Một"
+    },
+    {
+      "id": "29a87bcc-8bcf-4b08-9441-426a77ebc2c1",
+      "slug": "bnh-th-xinh",
+      "shopId": "62c7766c-7537-4038-8c29-b9cc379280aa",
+      "name": "Bánh Thỏ Xinh",
+      "shopName": "Tiệm Bánh Dâu Tây",
+      "tags": [
+        "nặn hình"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/fd33e7ad-b6fe-4270-b200-7e90af19bdf9/products/62c7766c-7537-4038-8c29-b9cc379280aa/a170105052354d97b898068b1dc6d2d8_th__xinh.webp",
+      "minPrice": 250000,
+      "maxPrice": 250000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Lễ tình nhân",
+          "slug": "l-tnh-nhn"
+        },
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Tốt nghiệp",
+          "slug": "tt-nghip"
+        },
+        {
+          "name": "Tặng Mẹ",
+          "slug": "tng-m"
+        },
+        {
+          "name": "Lễ Hội",
+          "slug": "bnh-l-hi"
+        },
+        {
+          "name": "Thôi nôi",
+          "slug": "bnh-s-kin-doanh-nghip"
+        },
+        {
+          "name": "Tạo Hình",
+          "slug": "to-hnh"
+        },
+        {
+          "name": "Bé Gái",
+          "slug": "b-gi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 48,
+      "province": "Bình Dương",
+      "district": "Thủ Dầu Một"
+    },
+    {
+      "id": "a350b02b-b62d-4a9c-8fc4-d5b55913170e",
+      "slug": "set-su-kem-gu-xinh",
+      "shopId": "62c7766c-7537-4038-8c29-b9cc379280aa",
+      "name": "Set Su Kem Gấu Xinh",
+      "shopName": "Tiệm Bánh Dâu Tây",
+      "tags": [
+        "su kem"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/fd33e7ad-b6fe-4270-b200-7e90af19bdf9/products/62c7766c-7537-4038-8c29-b9cc379280aa/41845e0ee88f4660ab33a5a7fb0c9b27_banner.webp",
+      "minPrice": 40000,
+      "maxPrice": 300000,
+      "rating": 5,
+      "reviewCount": 1,
+      "totalSold": 7,
+      "categories": [
+        {
+          "name": "Lễ tình nhân",
+          "slug": "l-tnh-nhn"
+        },
+        {
+          "name": "Bé Trai",
+          "slug": "b-trai"
+        },
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Tốt nghiệp",
+          "slug": "tt-nghip"
+        },
+        {
+          "name": "Tặng Mẹ",
+          "slug": "tng-m"
+        },
+        {
+          "name": "Khai Trương",
+          "slug": "khai-trng"
+        },
+        {
+          "name": "Lễ Hội",
+          "slug": "bnh-l-hi"
+        },
+        {
+          "name": "Thôi nôi",
+          "slug": "bnh-s-kin-doanh-nghip"
+        },
+        {
+          "name": "Bé Gái",
+          "slug": "b-gi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 49,
+      "province": "Bình Dương",
+      "district": "Thủ Dầu Một"
+    },
+    {
+      "id": "cc6569f2-c192-433d-9eb7-6fd2ad6bbda2",
+      "slug": "set-bento-2",
+      "shopId": "62c7766c-7537-4038-8c29-b9cc379280aa",
+      "name": "Set Bánh Kem Bento 2",
+      "shopName": "Tiệm Bánh Dâu Tây",
+      "tags": [],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/fd33e7ad-b6fe-4270-b200-7e90af19bdf9/products/62c7766c-7537-4038-8c29-b9cc379280aa/2cb771e82df546a38e2b1ffe205207a7_7.webp",
+      "minPrice": 80000,
+      "maxPrice": 80000,
+      "rating": 5,
+      "reviewCount": 2,
+      "totalSold": 4,
+      "categories": [
+        {
+          "name": "Bé Trai",
+          "slug": "b-trai"
+        },
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Tốt nghiệp",
+          "slug": "tt-nghip"
+        },
+        {
+          "name": "Lễ Hội",
+          "slug": "bnh-l-hi"
+        },
+        {
+          "name": "Thôi nôi",
+          "slug": "bnh-s-kin-doanh-nghip"
+        },
+        {
+          "name": "Bé Gái",
+          "slug": "b-gi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 50,
+      "province": "Bình Dương",
+      "district": "Thủ Dầu Một"
+    },
+    {
+      "id": "93ad943b-ca32-4cca-b2c6-67c5f4c6c63c",
+      "slug": "set-bnh-kem-bento-1",
+      "shopId": "62c7766c-7537-4038-8c29-b9cc379280aa",
+      "name": "Set Bánh Kem Bento 1",
+      "shopName": "Tiệm Bánh Dâu Tây",
+      "tags": [],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/fd33e7ad-b6fe-4270-b200-7e90af19bdf9/products/62c7766c-7537-4038-8c29-b9cc379280aa/4eec7a2119384eb1b142adfcf7116328_1.webp",
+      "minPrice": 80000,
+      "maxPrice": 80000,
+      "rating": 5,
+      "reviewCount": 4,
+      "totalSold": 4,
+      "categories": [
+        {
+          "name": "Bé Trai",
+          "slug": "b-trai"
+        },
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Tốt nghiệp",
+          "slug": "tt-nghip"
+        },
+        {
+          "name": "Lễ Hội",
+          "slug": "bnh-l-hi"
+        },
+        {
+          "name": "Bé Gái",
+          "slug": "b-gi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 51,
+      "province": "Bình Dương",
+      "district": "Thủ Dầu Một"
+    },
+    {
+      "id": "4b0ab1b8-f15e-4d1c-b412-3a26c9b555b7",
+      "slug": "bnh-kem-2-tng-cho-b-gi",
+      "shopId": "62c7766c-7537-4038-8c29-b9cc379280aa",
+      "name": "Bánh kem 2 tầng cho bé gái",
+      "shopName": "Tiệm Bánh Dâu Tây",
+      "tags": [],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/fd33e7ad-b6fe-4270-b200-7e90af19bdf9/products/62c7766c-7537-4038-8c29-b9cc379280aa/77486aea9d5546eebfef6e1acf4f8117_upload_image_picker_74DABE99-2CF5-4C5E-B00D-1BB23A0EDA1D-8556-0000034D0947CFAE_jpg.webp",
+      "minPrice": 850000,
+      "maxPrice": 850000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Thôi nôi",
+          "slug": "bnh-s-kin-doanh-nghip"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 52,
+      "province": "Bình Dương",
+      "district": "Thủ Dầu Một"
+    },
+    {
+      "id": "eb0dec1a-cb13-46d8-a392-779ce6fcb24e",
+      "slug": "bnh-kem-gu-bng-d-thng",
+      "shopId": "62c7766c-7537-4038-8c29-b9cc379280aa",
+      "name": "bánh kem gấu bông dễ thương",
+      "shopName": "Tiệm Bánh Dâu Tây",
+      "tags": [
+        "tạo hình"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/fd33e7ad-b6fe-4270-b200-7e90af19bdf9/products/62c7766c-7537-4038-8c29-b9cc379280aa/d75b827bcb35423cb57f3287c1a8bb87_upload_image_picker_0C7E3861-6F3D-4A38-9C3F-12B49F939C29-8556-0000034BF40ACCC2_jpg.webp",
+      "minPrice": 200000,
+      "maxPrice": 200000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Tạo Hình",
+          "slug": "to-hnh"
+        },
+        {
+          "name": "Bé Gái",
+          "slug": "b-gi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 53,
+      "province": "Bình Dương",
+      "district": "Thủ Dầu Một"
+    },
+    {
+      "id": "cf1c93ce-c11e-4eb3-a5a4-ca6ee13e8a93",
+      "slug": "bnh-kem-na-nn-cu-b-vng-km-pho-sau",
+      "shopId": "a027f395-a99a-401c-a699-4bca7168c7d4",
+      "name": "Bánh kem ú na ú nần cậu bé vàng kèm pháo ở sau",
+      "shopName": "Tiệm Bánh Huỳnh Xuyên",
+      "tags": [
+        "hoạt hình"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/c108649b-dfa9-41f2-aeca-db28f70bb2f0/products/a027f395-a99a-401c-a699-4bca7168c7d4/21ab07eb6df24cfd9f6510a1c6f9bc55_c_u_v_ng.webp",
+      "minPrice": 285000,
+      "maxPrice": 415000,
+      "rating": 5,
+      "reviewCount": 1,
+      "totalSold": 2,
+      "categories": [
+        {
+          "name": "Bé Trai",
+          "slug": "b-trai"
+        },
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Tạo Hình",
+          "slug": "to-hnh"
+        },
+        {
+          "name": "Bé Gái",
+          "slug": "b-gi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 54,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Thủ Đức"
+    },
+    {
+      "id": "d164fb5a-ba32-43bb-a680-cfed34bf4a2f",
+      "slug": "bnh-kem-na-nn-c-gi-vng-siu-xinh-km-pho-sau",
+      "shopId": "a027f395-a99a-401c-a699-4bca7168c7d4",
+      "name": "Bánh kem ú na ú nần cô gái vàng siêu xinh kèm pháo ở sau",
+      "shopName": "Tiệm Bánh Huỳnh Xuyên",
+      "tags": [
+        "hoạt hình"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/c108649b-dfa9-41f2-aeca-db28f70bb2f0/products/a027f395-a99a-401c-a699-4bca7168c7d4/5488e7c330254cd485090458edd6d235_c__v_ng.webp",
+      "minPrice": 285000,
+      "maxPrice": 415000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Bé Trai",
+          "slug": "b-trai"
+        },
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Tạo Hình",
+          "slug": "to-hnh"
+        },
+        {
+          "name": "Bé Gái",
+          "slug": "b-gi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 55,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Thủ Đức"
+    },
+    {
+      "id": "089ed02e-407b-4202-8472-97b968d14955",
+      "slug": "bnh-kem-na-nn-cu-b-xanh-dng-km-pho-sau",
+      "shopId": "a027f395-a99a-401c-a699-4bca7168c7d4",
+      "name": "Bánh kem ú na ú nần cậu bé xanh dương kèm pháo ở sau",
+      "shopName": "Tiệm Bánh Huỳnh Xuyên",
+      "tags": [
+        "hoạt hình"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/c108649b-dfa9-41f2-aeca-db28f70bb2f0/products/a027f395-a99a-401c-a699-4bca7168c7d4/0bb9a44f2cd740f3a38fbf5412e6d1a7_c_u_b__xanh.webp",
+      "minPrice": 285000,
+      "maxPrice": 415000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Bé Trai",
+          "slug": "b-trai"
+        },
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Tạo Hình",
+          "slug": "to-hnh"
+        },
+        {
+          "name": "Bé Gái",
+          "slug": "b-gi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 56,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Thủ Đức"
+    },
+    {
+      "id": "af5ef143-147d-4771-9a60-359a8f9c52c2",
+      "slug": "bnh-bpbb1",
+      "shopId": "1cff905f-d5c4-4c3e-85f7-867e66244437",
+      "name": "Bánh Bắp_BB1",
+      "shopName": "Paris Gato",
+      "tags": [
+        "bánh bắp",
+        "bánh hàng ngày"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/bd019163-c112-45e8-ba57-6d08c5e6140d/products/1cff905f-d5c4-4c3e-85f7-867e66244437/faf4b09e12f4485f8bc3d2c544062cf2_ChatGPT_Image_14_19_21_9_thg_8__2026.webp",
+      "minPrice": 240000,
+      "maxPrice": 240000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Lễ Hội",
+          "slug": "bnh-l-hi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": 2,
+      "sourceOrder": 57,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Phú Nhuận"
+    },
+    {
+      "id": "73c28007-bf77-4b4d-afa3-bc73e81c2b65",
+      "slug": "bnh-hn-quc",
+      "shopId": "1cff905f-d5c4-4c3e-85f7-867e66244437",
+      "name": "Bánh Hàn Quốc HQ1",
+      "shopName": "Paris Gato",
+      "tags": [
+        "mẫu hàn quốc",
+        "mẫu theo ngày"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/bd019163-c112-45e8-ba57-6d08c5e6140d/products/1cff905f-d5c4-4c3e-85f7-867e66244437/accd952175e349b3851ae60951d07180_ChatGPT_Image_14_00_31_9_thg_8__2026.webp",
+      "minPrice": 200000,
+      "maxPrice": 200000,
+      "rating": 5,
+      "reviewCount": 1,
+      "totalSold": 2,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 58,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Phú Nhuận"
+    },
+    {
+      "id": "4a248666-72fc-412d-a8a7-b676435fcade",
+      "slug": "bnh-bng-lan-trng-mui",
+      "shopId": "1cff905f-d5c4-4c3e-85f7-867e66244437",
+      "name": "Bánh bông lan trứng muối",
+      "shopName": "Paris Gato",
+      "tags": [
+        "mẫu theo ngày",
+        "bông lan trứng muối"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/bd019163-c112-45e8-ba57-6d08c5e6140d/products/1cff905f-d5c4-4c3e-85f7-867e66244437/493d31ef20a34ea4981101202f930f18_ChatGPT_Image_13_46_56_9_thg_8__2026.webp",
+      "minPrice": 300000,
+      "maxPrice": 300000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 59,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Phú Nhuận"
+    },
+    {
+      "id": "38b0722a-9276-4f42-89a5-0b75827a898f",
+      "slug": "bnh-kem-happy-birthday-3-tng-mt-ci",
+      "shopId": "1cff905f-d5c4-4c3e-85f7-867e66244437",
+      "name": "Bánh Kem Happy Birthday 3 Tầng Mặt Cười",
+      "shopName": "Paris Gato",
+      "tags": [
+        "3 tầng mini",
+        "mặt cười smiley"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/bd019163-c112-45e8-ba57-6d08c5e6140d/products/1cff905f-d5c4-4c3e-85f7-867e66244437/9a58ddf93d2c4f67a1bb0b891a8b4ab2_Picture31.webp",
+      "minPrice": 500000,
+      "maxPrice": 500000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Tạo Hình",
+          "slug": "to-hnh"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": 4,
+      "sourceOrder": 60,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Phú Nhuận"
+    },
+    {
+      "id": "0b88b8b2-2d09-4e40-a25e-f28340179582",
+      "slug": "bnh-kem-ng-vt-trn-ng-nghnh",
+      "shopId": "1cff905f-d5c4-4c3e-85f7-867e66244437",
+      "name": "Bánh Kem Động Vật Tròn Ngộ Nghĩnh",
+      "shopName": "Paris Gato",
+      "tags": [
+        "tạo hình thú",
+        "ngựa vằn",
+        "bánh 3d"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/bd019163-c112-45e8-ba57-6d08c5e6140d/products/1cff905f-d5c4-4c3e-85f7-867e66244437/7727761ff44440d6a5ad9f702a29432c_Picture30.webp",
+      "minPrice": 350000,
+      "maxPrice": 350000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Tạo Hình",
+          "slug": "to-hnh"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": 3,
+      "sourceOrder": 61,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Phú Nhuận"
+    },
+    {
+      "id": "fa534e24-b922-44b3-aba9-9330dd3f46b1",
+      "slug": "bnh-kem-hng-hoa-lan-ngc-trai",
+      "shopId": "1cff905f-d5c4-4c3e-85f7-867e66244437",
+      "name": "Bánh Kem Hồng Hoa Lan & Ngọc Trai",
+      "shopName": "Paris Gato",
+      "tags": [
+        "ngọc trai",
+        "hoa lan",
+        "hồng pastel",
+        "bánh tặng nữ"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/bd019163-c112-45e8-ba57-6d08c5e6140d/products/1cff905f-d5c4-4c3e-85f7-867e66244437/6427c5f04b6248399c7dc59ccec77736_Picture29.webp",
+      "minPrice": 320000,
+      "maxPrice": 320000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Lễ tình nhân",
+          "slug": "l-tnh-nhn"
+        },
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": 4,
+      "sourceOrder": 62,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Phú Nhuận"
+    },
+    {
+      "id": "da9c2ea3-3428-4537-9390-21000218dddd",
+      "slug": "bnh-kem-ghp-ming-birthday-split-pastel",
+      "shopId": "1cff905f-d5c4-4c3e-85f7-867e66244437",
+      "name": "Bánh Kem Ghép Miếng Birthday Split Pastel",
+      "shopName": "Paris Gato",
+      "tags": [
+        "bánh ghép miếng",
+        "split cake",
+        "tone pastel"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/bd019163-c112-45e8-ba57-6d08c5e6140d/products/1cff905f-d5c4-4c3e-85f7-867e66244437/c32afce02c27443396f7970c4c51f379_Picture28.webp",
+      "minPrice": 450000,
+      "maxPrice": 450000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": 4,
+      "sourceOrder": 63,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Phú Nhuận"
+    },
+    {
+      "id": "087c3059-ed3e-45a5-ae5e-9f756be0850e",
+      "slug": "bnh-kem-vung-hoa-kem-pastel",
+      "shopId": "1cff905f-d5c4-4c3e-85f7-867e66244437",
+      "name": "Bánh Kem Vuông Hoa Kem Pastel",
+      "shopName": "Paris Gato",
+      "tags": [
+        "hoa kem",
+        "tone nude",
+        "bánh vuông"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/bd019163-c112-45e8-ba57-6d08c5e6140d/products/1cff905f-d5c4-4c3e-85f7-867e66244437/12db7118d99f4aed867e74418610c4f9_Picture27.webp",
+      "minPrice": 680000,
+      "maxPrice": 680000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Lễ Hội",
+          "slug": "bnh-l-hi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": 4,
+      "sourceOrder": 64,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Phú Nhuận"
+    },
+    {
+      "id": "4eb4e684-b54d-4c98-bce5-1950e1e40685",
+      "slug": "bnh-kem-lch-thng-happy-birthday",
+      "shopId": "1cff905f-d5c4-4c3e-85f7-867e66244437",
+      "name": "Bánh Kem Lịch Tháng – Happy Birthday",
+      "shopName": "Paris Gato",
+      "tags": [
+        "happy birthday",
+        "lịch tháng"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/bd019163-c112-45e8-ba57-6d08c5e6140d/products/1cff905f-d5c4-4c3e-85f7-867e66244437/68ab83a1bead4981b95d0260c6dd9b73_Picture26.webp",
+      "minPrice": 520000,
+      "maxPrice": 520000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": 4,
+      "sourceOrder": 65,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Phú Nhuận"
+    },
+    {
+      "id": "7433afb0-5e09-4b2a-898f-895d06e39fd9",
+      "slug": "bnh-kem-vit-qut-mm-lch",
+      "shopId": "1cff905f-d5c4-4c3e-85f7-867e66244437",
+      "name": "Bánh Kem Việt Quất & Mâm Lịch",
+      "shopName": "Paris Gato",
+      "tags": [
+        "lịch tháng",
+        "việt quất"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/bd019163-c112-45e8-ba57-6d08c5e6140d/products/1cff905f-d5c4-4c3e-85f7-867e66244437/e95b89a71ec2486587606414503696a9_Picture25.webp",
+      "minPrice": 380000,
+      "maxPrice": 380000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": 4,
+      "sourceOrder": 66,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Phú Nhuận"
+    },
+    {
+      "id": "54084067-f0dd-4bc8-9bd2-482c1640cc06",
+      "slug": "bnh-kem-vung-tri-cy-ti",
+      "shopId": "1cff905f-d5c4-4c3e-85f7-867e66244437",
+      "name": "Bánh Kem Vuông Trái Cây Tươi",
+      "shopName": "Paris Gato",
+      "tags": [
+        "bánh vuông",
+        "trái cây tươi"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/bd019163-c112-45e8-ba57-6d08c5e6140d/products/1cff905f-d5c4-4c3e-85f7-867e66244437/13748b43ef03488b9eeb8e46c2c7ac9f_Picture24.webp",
+      "minPrice": 680000,
+      "maxPrice": 680000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": 5,
+      "sourceOrder": 67,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Phú Nhuận"
+    },
+    {
+      "id": "0f1793c6-177a-461d-ba73-6abb44ee39b4",
+      "slug": "bnh-kem-bp-tri-cy-ti-hnh-nhn-crunch",
+      "shopId": "1cff905f-d5c4-4c3e-85f7-867e66244437",
+      "name": "Bánh Kem Bắp Trái Cây Tươi & Hạnh Nhân Crunch_BB2",
+      "shopName": "Paris Gato",
+      "tags": [
+        "bánh kem bắp",
+        "trái cây tươi"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/bd019163-c112-45e8-ba57-6d08c5e6140d/products/1cff905f-d5c4-4c3e-85f7-867e66244437/456c3e839eaf4d608bdb466d824ff1a2_Picture23.webp",
+      "minPrice": 300000,
+      "maxPrice": 300000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 68,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Phú Nhuận"
+    },
+    {
+      "id": "5785c958-d49c-416c-b34d-81f5bbb6d02a",
+      "slug": "bnh-kem-ng-ray-tu-ha-t-chi",
+      "shopId": "1cff905f-d5c4-4c3e-85f7-867e66244437",
+      "name": "Bánh Kem Đường Ray Tàu Hỏa & Ô Tô Đồ Chơi",
+      "shopName": "Paris Gato",
+      "tags": [
+        "bánh sinh nhật bé trai"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/bd019163-c112-45e8-ba57-6d08c5e6140d/products/1cff905f-d5c4-4c3e-85f7-867e66244437/7d0afa66327545fa9d0925dc070500f5_Picture22.webp",
+      "minPrice": 430000,
+      "maxPrice": 430000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Bé Trai",
+          "slug": "b-trai"
+        },
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": 6,
+      "sourceOrder": 69,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Phú Nhuận"
+    },
+    {
+      "id": "afd1b2b7-b129-4913-9025-5b4d490dde92",
+      "slug": "bnh-kem-chu-hoa-tulip-pastel",
+      "shopId": "1cff905f-d5c4-4c3e-85f7-867e66244437",
+      "name": "Bánh Kem Chậu Hoa Tulip Pastel",
+      "shopName": "Paris Gato",
+      "tags": [
+        "mẫu hàn quốc",
+        "bánh chậu hoa"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/bd019163-c112-45e8-ba57-6d08c5e6140d/products/1cff905f-d5c4-4c3e-85f7-867e66244437/bcc40957f358403e8c195c4aeb0cde72_Picture21.webp",
+      "minPrice": 320000,
+      "maxPrice": 320000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Tạo Hình",
+          "slug": "to-hnh"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": 4,
+      "sourceOrder": 70,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Phú Nhuận"
+    },
+    {
+      "id": "0cf637ae-adef-4bd1-be37-2f7d495d44d9",
+      "slug": "bnh-kem-gia-nh-gu-trc-panda-land",
+      "shopId": "1cff905f-d5c4-4c3e-85f7-867e66244437",
+      "name": "Bánh Kem Gia Đình Gấu Trúc (Panda Land)",
+      "shopName": "Paris Gato",
+      "tags": [
+        "bánh tạo hình thú",
+        "bánh gấu trúc"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/bd019163-c112-45e8-ba57-6d08c5e6140d/products/1cff905f-d5c4-4c3e-85f7-867e66244437/9cede9494a5747ec90a53a24b38fa3ff_Picture20.webp",
+      "minPrice": 350000,
+      "maxPrice": 350000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Tạo Hình",
+          "slug": "to-hnh"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": 5,
+      "sourceOrder": 71,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Phú Nhuận"
+    },
+    {
+      "id": "0a42d163-0db9-4fdf-907f-37d5fad6416a",
+      "slug": "bnh-kem-di-la-trng-tri-tim-socola",
+      "shopId": "1cff905f-d5c4-4c3e-85f7-867e66244437",
+      "name": "Bánh Kem Dải Lụa Trắng & Trái Tim Socola",
+      "shopName": "Paris Gato",
+      "tags": [
+        "mẫu hàn quốc",
+        "bánh socola"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/bd019163-c112-45e8-ba57-6d08c5e6140d/products/1cff905f-d5c4-4c3e-85f7-867e66244437/3de93987a21848ab83cd26f164c81951_Picture19.webp",
+      "minPrice": 300000,
+      "maxPrice": 300000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 1,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": 4,
+      "sourceOrder": 72,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Phú Nhuận"
+    },
+    {
+      "id": "885ab630-b1cc-4b47-afcc-77e0e13d63c0",
+      "slug": "bnh-kem-ch-heo-hng",
+      "shopId": "1cff905f-d5c4-4c3e-85f7-867e66244437",
+      "name": "Bánh Kem Chú Heo Hồng",
+      "shopName": "Paris Gato",
+      "tags": [
+        "bánh tạo hình thú",
+        "bánh cute"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/bd019163-c112-45e8-ba57-6d08c5e6140d/products/1cff905f-d5c4-4c3e-85f7-867e66244437/d0d3bbacf9fe44a99880490c51f11e39_Picture18.webp",
+      "minPrice": 290000,
+      "maxPrice": 290000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Tạo Hình",
+          "slug": "to-hnh"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": 3,
+      "sourceOrder": 73,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Phú Nhuận"
+    },
+    {
+      "id": "5fc9fcaa-ac9e-4a35-904e-5a62065fbd41",
+      "slug": "bnh-kem-cng-cha-xe-hoa-t-inh-hng",
+      "shopId": "1cff905f-d5c4-4c3e-85f7-867e66244437",
+      "name": "Bánh Kem Công Chúa & Xe Hoa Tử Đinh Hương",
+      "shopName": "Paris Gato",
+      "tags": [
+        "bánh tặng bạn gái",
+        "bánh xe hoa"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/bd019163-c112-45e8-ba57-6d08c5e6140d/products/1cff905f-d5c4-4c3e-85f7-867e66244437/8d4f04b0d39245939378c1c1da4107fa_Picture17.webp",
+      "minPrice": 350000,
+      "maxPrice": 350000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Lễ tình nhân",
+          "slug": "l-tnh-nhn"
+        },
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": 4,
+      "sourceOrder": 74,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Phú Nhuận"
+    },
+    {
+      "id": "12e1e4e3-3292-4f5f-9d7c-8f5ea35e4229",
+      "slug": "bnh-kem-lu-du-ty-fresh-berry",
+      "shopId": "1cff905f-d5c4-4c3e-85f7-867e66244437",
+      "name": "Bánh Kem Lựu Đỏ & Dâu Tây Fresh Berry",
+      "shopName": "Paris Gato",
+      "tags": [
+        "bánh trái cây",
+        "mẫu hàn quốc",
+        "bánh hiện đại"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/bd019163-c112-45e8-ba57-6d08c5e6140d/products/1cff905f-d5c4-4c3e-85f7-867e66244437/b0cb5589b3dd4b98a20dcd5e319000a9_Picture16.webp",
+      "minPrice": 420000,
+      "maxPrice": 420000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": 3,
+      "sourceOrder": 75,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Phú Nhuận"
+    },
+    {
+      "id": "454db3d5-09bd-4918-bd90-a66df52e2471",
+      "slug": "bnh-kem-tri-cy-xoi-vit-qut-cao-cp",
+      "shopId": "1cff905f-d5c4-4c3e-85f7-867e66244437",
+      "name": "Bánh Kem Trái Cây Xoài & Việt Quất Cao Cấp",
+      "shopName": "Paris Gato",
+      "tags": [
+        "bánh hiện đại",
+        "bánh trái cây",
+        "mẫu hàn quốc"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/bd019163-c112-45e8-ba57-6d08c5e6140d/products/1cff905f-d5c4-4c3e-85f7-867e66244437/b3f266b5f0f04336b8ea591bff0de628_Picture15.webp",
+      "minPrice": 420000,
+      "maxPrice": 420000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": 3,
+      "sourceOrder": 76,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Phú Nhuận"
+    },
+    {
+      "id": "f8a354ef-ecac-4f47-97bd-30880d650085",
+      "slug": "bnh-h-vng-khai-trng-hng-pht-hoa-hong-kim",
+      "shopId": "1cff905f-d5c4-4c3e-85f7-867e66244437",
+      "name": "Bánh Hũ Vàng Khai Trương Hồng Phát (Hoa Hoàng Kim)",
+      "shopName": "Paris Gato",
+      "tags": [
+        "bánh hũ vàng",
+        "bánh khai trương"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/bd019163-c112-45e8-ba57-6d08c5e6140d/products/1cff905f-d5c4-4c3e-85f7-867e66244437/28229ac29c0e49659b480917eaf69ed1_Picture14.webp",
+      "minPrice": 450000,
+      "maxPrice": 450000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Khai Trương",
+          "slug": "khai-trng"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": 4,
+      "sourceOrder": 77,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Phú Nhuận"
+    },
+    {
+      "id": "5e23213f-2d3e-4ab3-a101-4b6131d3c181",
+      "slug": "bnh-kem-du-ty-ht-d",
+      "shopId": "1cff905f-d5c4-4c3e-85f7-867e66244437",
+      "name": "Bánh Kem Dâu Tây & Hạt Dẻ",
+      "shopName": "Paris Gato",
+      "tags": [
+        "bánh dâu tây",
+        "mẫu hàn quốc"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/bd019163-c112-45e8-ba57-6d08c5e6140d/products/1cff905f-d5c4-4c3e-85f7-867e66244437/4094f8224f824681b0df3333a809b266_Picture13.webp",
+      "minPrice": 350000,
+      "maxPrice": 350000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": 4,
+      "sourceOrder": 78,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Phú Nhuận"
+    },
+    {
+      "id": "a5d98f75-d7f6-46f8-ab91-16aedd6600f5",
+      "slug": "bnh-kem-ly-bia-heineken",
+      "shopId": "1cff905f-d5c4-4c3e-85f7-867e66244437",
+      "name": "Bánh Kem Ly Bia Heineken",
+      "shopName": "Paris Gato",
+      "tags": [
+        "bánh hài hước",
+        "bánh mô hình bia"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/bd019163-c112-45e8-ba57-6d08c5e6140d/products/1cff905f-d5c4-4c3e-85f7-867e66244437/850e825683a342f6836858fa57e4894b_Picture12.webp",
+      "minPrice": 380000,
+      "maxPrice": 380000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Bé Trai",
+          "slug": "b-trai"
+        },
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": 4,
+      "sourceOrder": 79,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Phú Nhuận"
+    },
+    {
+      "id": "a099ad95-43ec-4dc5-9d36-465be79576db",
+      "slug": "bnh-kem-pink-black-ribbon-hng-en-hin-i",
+      "shopId": "1cff905f-d5c4-4c3e-85f7-867e66244437",
+      "name": "Bánh Kem Pink & Black Ribbon (Hồng Đen Hiện Đại)",
+      "shopName": "Paris Gato",
+      "tags": [
+        "mẫu hàn quốc",
+        "bánh tặng bạn gái"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/bd019163-c112-45e8-ba57-6d08c5e6140d/products/1cff905f-d5c4-4c3e-85f7-867e66244437/50205c40efeb409381bee54e878dda9f_Picture11.webp",
+      "minPrice": 340000,
+      "maxPrice": 340000,
+      "rating": 5,
+      "reviewCount": 1,
+      "totalSold": 1,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": 4,
+      "sourceOrder": 80,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Phú Nhuận"
+    },
+    {
+      "id": "f53efc03-1ce7-4025-9edd-1169196e33bd",
+      "slug": "bnh-kem-hp-qu-hoa-hng-nht-hng-pastel",
+      "shopId": "1cff905f-d5c4-4c3e-85f7-867e66244437",
+      "name": "Bánh Kem Hộp Quà Hoa Hồng Nhát Hồng Pastel",
+      "shopName": "Paris Gato",
+      "tags": [
+        "bánh tặng bạn gái",
+        "mẫu hàn quốc"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/bd019163-c112-45e8-ba57-6d08c5e6140d/products/1cff905f-d5c4-4c3e-85f7-867e66244437/1770e2c033da42a99a863e14d576319a_Picture10.webp",
+      "minPrice": 380000,
+      "maxPrice": 380000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": 4,
+      "sourceOrder": 81,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Phú Nhuận"
+    },
+    {
+      "id": "c202919f-87a4-485a-9353-104afeec5293",
+      "slug": "bnh-kem-vt-bo-vng",
+      "shopId": "1cff905f-d5c4-4c3e-85f7-867e66244437",
+      "name": "Bánh Kem Vịt Béo Ú Vàng",
+      "shopName": "Paris Gato",
+      "tags": [
+        "mẫu hàn quốc",
+        "bánh cute"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/bd019163-c112-45e8-ba57-6d08c5e6140d/products/1cff905f-d5c4-4c3e-85f7-867e66244437/805b615b4d864f70b474d8ed482bbdd0_Picture9.webp",
+      "minPrice": 320000,
+      "maxPrice": 320000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 82,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Phú Nhuận"
+    },
+    {
+      "id": "5c76bedf-f030-4784-9762-533b6c8de4a4",
+      "slug": "bnh-kem-cng-cha-tht-n-hng-vng-min",
+      "shopId": "1cff905f-d5c4-4c3e-85f7-867e66244437",
+      "name": "Bánh Kem Công Chúa Thắt Nơ Hồng & Vương Miện",
+      "shopName": "Paris Gato",
+      "tags": [
+        "mẫu hàn quốc"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/bd019163-c112-45e8-ba57-6d08c5e6140d/products/1cff905f-d5c4-4c3e-85f7-867e66244437/78b6223042dc4c579e9dc53aca255737_Picture8.webp",
+      "minPrice": 350000,
+      "maxPrice": 350000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": 3,
+      "sourceOrder": 83,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Phú Nhuận"
+    },
+    {
+      "id": "b12f8fa3-8880-49b3-8bb1-58f255ba4c92",
+      "slug": "bnh-kem-to-hnh-ch-h-vng",
+      "shopId": "1cff905f-d5c4-4c3e-85f7-867e66244437",
+      "name": "Bánh Kem Tạo Hình Chú Hổ Vàng",
+      "shopName": "Paris Gato",
+      "tags": [
+        "bánh bé trai",
+        "bánh tạo hình thú"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/bd019163-c112-45e8-ba57-6d08c5e6140d/products/1cff905f-d5c4-4c3e-85f7-867e66244437/7856808a77a64fcaa654557998f4f589_Picture7.webp",
+      "minPrice": 400000,
+      "maxPrice": 400000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Bé Trai",
+          "slug": "b-trai"
+        },
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Tạo Hình",
+          "slug": "to-hnh"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": 3,
+      "sourceOrder": 84,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Phú Nhuận"
+    },
+    {
+      "id": "0f8593fd-5a4f-4024-9fa4-05452f7be5c0",
+      "slug": "bnh-kem-to-hnh-chut-pinky",
+      "shopId": "1cff905f-d5c4-4c3e-85f7-867e66244437",
+      "name": "Bánh Kem Tạo Hình Chuột Pinky",
+      "shopName": "Paris Gato",
+      "tags": [
+        "bánh tạo hình thú"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/bd019163-c112-45e8-ba57-6d08c5e6140d/products/1cff905f-d5c4-4c3e-85f7-867e66244437/1d5a820969084fa18709418c1f7ee890_Picture6.webp",
+      "minPrice": 400000,
+      "maxPrice": 400000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Bé Gái",
+          "slug": "b-gi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": 5,
+      "sourceOrder": 85,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Phú Nhuận"
+    },
+    {
+      "id": "b2cb8e69-c9ff-4abb-ba08-204a8766b709",
+      "slug": "bnh-kem-tri-cy-ti-nho-xanh-xoi-ti",
+      "shopId": "1cff905f-d5c4-4c3e-85f7-867e66244437",
+      "name": "Bánh Kem Trái Cây Tươi (Nho Xanh & Xoài Tươi)",
+      "shopName": "Paris Gato",
+      "tags": [
+        "mẫu hàn quốc",
+        "bánh trái cây"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/bd019163-c112-45e8-ba57-6d08c5e6140d/products/1cff905f-d5c4-4c3e-85f7-867e66244437/d91639e37c4e4529a3113a3f8c6e3a66_Picture5.webp",
+      "minPrice": 350000,
+      "maxPrice": 350000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 86,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Phú Nhuận"
+    },
+    {
+      "id": "efd644b5-65ab-40b6-a7c3-a97efc8265dd",
+      "slug": "bnh-kem-cng-cha-vy-hng",
+      "shopId": "1cff905f-d5c4-4c3e-85f7-867e66244437",
+      "name": "Bánh Kem Công Chúa Váy Hồng",
+      "shopName": "Paris Gato",
+      "tags": [
+        "bánh công chúa",
+        "bánh bé gái"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/bd019163-c112-45e8-ba57-6d08c5e6140d/products/1cff905f-d5c4-4c3e-85f7-867e66244437/cdc5a743a37b4980b51f37b017ba22f7_Picture4.webp",
+      "minPrice": 350000,
+      "maxPrice": 350000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Bé Gái",
+          "slug": "b-gi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": 4,
+      "sourceOrder": 87,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Phú Nhuận"
+    },
+    {
+      "id": "fc92da53-e55a-4fb1-9de7-7b3947076235",
+      "slug": "bnh-kem-4-chibi-v-tri-nn-mu",
+      "shopId": "a027f395-a99a-401c-a699-4bca7168c7d4",
+      "name": "Bánh Kem 4 Chibi Vô Tri Nền Màu ",
+      "shopName": "Tiệm Bánh Huỳnh Xuyên",
+      "tags": [
+        "vô tri"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/c108649b-dfa9-41f2-aeca-db28f70bb2f0/products/a027f395-a99a-401c-a699-4bca7168c7d4/dfa45598721f4625bd8ccca5b9f82850_b_nh_n_n_m_u.webp",
+      "minPrice": 365000,
+      "maxPrice": 365000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Bé Trai",
+          "slug": "b-trai"
+        },
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Tạo Hình",
+          "slug": "to-hnh"
+        },
+        {
+          "name": "Bé Gái",
+          "slug": "b-gi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 88,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Thủ Đức"
+    },
+    {
+      "id": "f16ce314-b066-468b-9b69-96984a5d54e3",
+      "slug": "bnh-kem-bit-i-4-con-v-tri",
+      "shopId": "a027f395-a99a-401c-a699-4bca7168c7d4",
+      "name": "Bánh Kem Biệt Đội 4 Con \"Vô Tri\"",
+      "shopName": "Tiệm Bánh Huỳnh Xuyên",
+      "tags": [
+        "đội lạ"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/c108649b-dfa9-41f2-aeca-db28f70bb2f0/products/a027f395-a99a-401c-a699-4bca7168c7d4/f619543407d444adaad90704bc2f3100_754202387_2872463223133224_4436169543049547805_n.webp",
+      "minPrice": 365000,
+      "maxPrice": 365000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Bé Trai",
+          "slug": "b-trai"
+        },
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Tạo Hình",
+          "slug": "to-hnh"
+        },
+        {
+          "name": "Bé Gái",
+          "slug": "b-gi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 89,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Thủ Đức"
+    },
+    {
+      "id": "8eab31dd-cb05-4c89-a8bf-855189c41330",
+      "slug": "bnh-kem-bit-i-6-con-v-tri",
+      "shopId": "a027f395-a99a-401c-a699-4bca7168c7d4",
+      "name": "Bánh Kem Biệt Đội 6 Con \"Vô Tri\"",
+      "shopName": "Tiệm Bánh Huỳnh Xuyên",
+      "tags": [
+        "độc lạ"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/c108649b-dfa9-41f2-aeca-db28f70bb2f0/products/a027f395-a99a-401c-a699-4bca7168c7d4/71394950d7f74540a3d9b3216df02829_753668440_2071108563510537_8088048291939662174_n.webp",
+      "minPrice": 365000,
+      "maxPrice": 365000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Bé Trai",
+          "slug": "b-trai"
+        },
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Tạo Hình",
+          "slug": "to-hnh"
+        },
+        {
+          "name": "Bé Gái",
+          "slug": "b-gi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 90,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Thủ Đức"
+    },
+    {
+      "id": "654e97d9-c302-48a3-9774-c56193329084",
+      "slug": "bnh-kem-vung-lt-ch-bit-i-v-tri",
+      "shopId": "a027f395-a99a-401c-a699-4bca7168c7d4",
+      "name": "Bánh Kem Vuông Lật Chữ & Biệt Đội \"Vô Tri\"",
+      "shopName": "Tiệm Bánh Huỳnh Xuyên",
+      "tags": [
+        "độc lạ"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/c108649b-dfa9-41f2-aeca-db28f70bb2f0/products/a027f395-a99a-401c-a699-4bca7168c7d4/518ffc0f0d3e446fbf92da4592abfd29_756779725_1025918970311246_5154624190104696956_n.webp",
+      "minPrice": 485000,
+      "maxPrice": 485000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Bé Trai",
+          "slug": "b-trai"
+        },
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Lễ Hội",
+          "slug": "bnh-l-hi"
+        },
+        {
+          "name": "Tạo Hình",
+          "slug": "to-hnh"
+        },
+        {
+          "name": "Bé Gái",
+          "slug": "b-gi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 91,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Thủ Đức"
+    },
+    {
+      "id": "9552fdae-f94a-4c53-90ed-13f97bd3aac9",
+      "slug": "bnh-kem-vung-lt-ch-chibi-chng-trai",
+      "shopId": "a027f395-a99a-401c-a699-4bca7168c7d4",
+      "name": "Bánh Kem Vuông Lật Chữ & Chibi Chàng Trai ",
+      "shopName": "Tiệm Bánh Huỳnh Xuyên",
+      "tags": [
+        "độc lạ"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/c108649b-dfa9-41f2-aeca-db28f70bb2f0/products/a027f395-a99a-401c-a699-4bca7168c7d4/1b4542f15303410aafe5bd871ec6c4db_756343887_2197546667759157_107251784601927849_n.webp",
+      "minPrice": 445000,
+      "maxPrice": 445000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Bé Trai",
+          "slug": "b-trai"
+        },
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Tạo Hình",
+          "slug": "to-hnh"
+        },
+        {
+          "name": "Bé Gái",
+          "slug": "b-gi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 92,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Thủ Đức"
+    },
+    {
+      "id": "9dbaf3eb-2fd5-4a16-8e1a-b36c6db8771a",
+      "slug": "bnh-kem-lon-bia-tiger-chng-trai-chibi",
+      "shopId": "a027f395-a99a-401c-a699-4bca7168c7d4",
+      "name": "Bánh Kem Lon Bia Tiger & Chàng Trai Chibi",
+      "shopName": "Tiệm Bánh Huỳnh Xuyên",
+      "tags": [
+        "độc lạ"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/c108649b-dfa9-41f2-aeca-db28f70bb2f0/products/a027f395-a99a-401c-a699-4bca7168c7d4/a702b87071bb4e4992e588360d84b6b8_758481064_1048460677567026_9085237714862781698_n.webp",
+      "minPrice": 365000,
+      "maxPrice": 365000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Bé Trai",
+          "slug": "b-trai"
+        },
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Lễ Hội",
+          "slug": "bnh-l-hi"
+        },
+        {
+          "name": "Tạo Hình",
+          "slug": "to-hnh"
+        },
+        {
+          "name": "Bé Gái",
+          "slug": "b-gi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 93,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Thủ Đức"
+    },
+    {
+      "id": "9975dd16-b830-4041-b213-a482e27f71ca",
+      "slug": "bnh-kem-lon-bia-heineken-chng-trai-chibi",
+      "shopId": "a027f395-a99a-401c-a699-4bca7168c7d4",
+      "name": "Bánh Kem Lon Bia Heineken & Chàng Trai Chibi",
+      "shopName": "Tiệm Bánh Huỳnh Xuyên",
+      "tags": [
+        "độc lạ"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/c108649b-dfa9-41f2-aeca-db28f70bb2f0/products/a027f395-a99a-401c-a699-4bca7168c7d4/f22ac043f60e433087fb07fc62a8bf8b_755351229_1054482930312106_8108636343289197918_n.webp",
+      "minPrice": 365000,
+      "maxPrice": 365000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Bé Trai",
+          "slug": "b-trai"
+        },
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Lễ Hội",
+          "slug": "bnh-l-hi"
+        },
+        {
+          "name": "Tạo Hình",
+          "slug": "to-hnh"
+        },
+        {
+          "name": "Bé Gái",
+          "slug": "b-gi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 94,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Thủ Đức"
+    },
+    {
+      "id": "36f96d78-17d2-4a6d-9130-800c7ab6837d",
+      "slug": "bnh-kem-chibi-nn-hnh-ngi",
+      "shopId": "a027f395-a99a-401c-a699-4bca7168c7d4",
+      "name": "Bánh kem Chibi nặn hình người ",
+      "shopName": "Tiệm Bánh Huỳnh Xuyên",
+      "tags": [
+        "ngộ nghĩnh"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/c108649b-dfa9-41f2-aeca-db28f70bb2f0/products/a027f395-a99a-401c-a699-4bca7168c7d4/993d8095ffeb4692b108c6ba4cacd21d_758841087_1009280551972635_5885396505000106210_n.webp",
+      "minPrice": 795000,
+      "maxPrice": 795000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Bé Trai",
+          "slug": "b-trai"
+        },
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Tạo Hình",
+          "slug": "to-hnh"
+        },
+        {
+          "name": "Bé Gái",
+          "slug": "b-gi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 95,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Thủ Đức"
+    },
+    {
+      "id": "75ba33a7-fbb3-4fc8-91a1-f681f5f1008b",
+      "slug": "bnh-kem-th-gin",
+      "shopId": "a027f395-a99a-401c-a699-4bca7168c7d4",
+      "name": "Bánh kem thư giãn ",
+      "shopName": "Tiệm Bánh Huỳnh Xuyên",
+      "tags": [
+        "thư giãn"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/c108649b-dfa9-41f2-aeca-db28f70bb2f0/products/a027f395-a99a-401c-a699-4bca7168c7d4/fdd71dc7f8874330b735248c88a8b852_759308452_2070086970272818_8451373574407206206_n.webp",
+      "minPrice": 515000,
+      "maxPrice": 515000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Bé Trai",
+          "slug": "b-trai"
+        },
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Lễ Hội",
+          "slug": "bnh-l-hi"
+        },
+        {
+          "name": "Tạo Hình",
+          "slug": "to-hnh"
+        },
+        {
+          "name": "Bé Gái",
+          "slug": "b-gi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 96,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Thủ Đức"
+    },
+    {
+      "id": "50a8e6f8-fbdb-4f9d-8cba-081abf027bc9",
+      "slug": "bnh-kem-cn-xanh-v-chibi-ngi",
+      "shopId": "a027f395-a99a-401c-a699-4bca7168c7d4",
+      "name": "Bánh Kem Cân Xanh và Chibi người ",
+      "shopName": "Tiệm Bánh Huỳnh Xuyên",
+      "tags": [
+        "tạo hình"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/c108649b-dfa9-41f2-aeca-db28f70bb2f0/products/a027f395-a99a-401c-a699-4bca7168c7d4/7a639591bc404120878302eefac1b9cd_761393022_1408156591182030_3198487658299770593_n.webp",
+      "minPrice": 395000,
+      "maxPrice": 395000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Bé Trai",
+          "slug": "b-trai"
+        },
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Lễ Hội",
+          "slug": "bnh-l-hi"
+        },
+        {
+          "name": "Bé Gái",
+          "slug": "b-gi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 97,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Thủ Đức"
+    },
+    {
+      "id": "81d562f8-64f8-4ff8-b5f9-3384e81045d5",
+      "slug": "bnh-kem-na-nn-c-gi-tc-vng-km-pho-sau",
+      "shopId": "a027f395-a99a-401c-a699-4bca7168c7d4",
+      "name": "Bánh kem ú na ú nần cô gái tóc vàng kèm pháo ở sau ",
+      "shopName": "Tiệm Bánh Huỳnh Xuyên",
+      "tags": [
+        "hoạt hình"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/c108649b-dfa9-41f2-aeca-db28f70bb2f0/products/a027f395-a99a-401c-a699-4bca7168c7d4/d764640d93124323b9dfdae405fa5315_toc_vang.webp",
+      "minPrice": 285000,
+      "maxPrice": 415000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Bé Trai",
+          "slug": "b-trai"
+        },
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Tặng Mẹ",
+          "slug": "tng-m"
+        },
+        {
+          "name": "Bé Gái",
+          "slug": "b-gi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 98,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Thủ Đức"
+    },
+    {
+      "id": "e80a95bd-be55-4f4a-a18d-603254ccfac4",
+      "slug": "bnh-kem-na-nn-vi-c-b-bi-tc-km-pho-sau",
+      "shopId": "a027f395-a99a-401c-a699-4bca7168c7d4",
+      "name": "Bánh kem ú na ú nần với cô bé búi tóc kèm pháo ở sau ",
+      "shopName": "Tiệm Bánh Huỳnh Xuyên",
+      "tags": [
+        "hoạt hình"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/c108649b-dfa9-41f2-aeca-db28f70bb2f0/products/a027f395-a99a-401c-a699-4bca7168c7d4/532ea8201ceb45b6a5b10851260cc845_bui_toc.webp",
+      "minPrice": 285000,
+      "maxPrice": 415000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Bé Trai",
+          "slug": "b-trai"
+        },
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Lễ Hội",
+          "slug": "bnh-l-hi"
+        },
+        {
+          "name": "Bé Gái",
+          "slug": "b-gi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 99,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Thủ Đức"
+    },
+    {
+      "id": "5388320c-cabc-464f-9be4-10a59979cfc3",
+      "slug": "bnh-kem-na-nn-km-pho-sau",
+      "shopId": "a027f395-a99a-401c-a699-4bca7168c7d4",
+      "name": "Bánh kem ú na ú nần kèm pháo ở sau ",
+      "shopName": "Tiệm Bánh Huỳnh Xuyên",
+      "tags": [
+        "nghộ nghĩnh"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/c108649b-dfa9-41f2-aeca-db28f70bb2f0/products/a027f395-a99a-401c-a699-4bca7168c7d4/16a754f06c894ef091c2cbc2bf4247bd__eo_k_nh.webp",
+      "minPrice": 285000,
+      "maxPrice": 415000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Bé Trai",
+          "slug": "b-trai"
+        },
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Bé Gái",
+          "slug": "b-gi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 100,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Thủ Đức"
+    },
+    {
+      "id": "c502427d-1bec-4172-8ffb-2ca29aafd004",
+      "slug": "bnh-kem-3d-heo-hng-siu-cute-i-nn-party",
+      "shopId": "62c7766c-7537-4038-8c29-b9cc379280aa",
+      "name": "Bánh kem 3D heo hồng siêu cute đội nón party.",
+      "shopName": "Tiệm Bánh Dâu Tây",
+      "tags": [
+        "cute"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/fd33e7ad-b6fe-4270-b200-7e90af19bdf9/products/62c7766c-7537-4038-8c29-b9cc379280aa/d79d213e4e47496088f9f640b12d8e7a_bf8b6d68-b9a1-4b1f-bd87-e5ed58372175.webp",
+      "minPrice": 280000,
+      "maxPrice": 280000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Bé Trai",
+          "slug": "b-trai"
+        },
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Lễ Hội",
+          "slug": "bnh-l-hi"
+        },
+        {
+          "name": "Thôi nôi",
+          "slug": "bnh-s-kin-doanh-nghip"
+        },
+        {
+          "name": "Bé Gái",
+          "slug": "b-gi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 101,
+      "province": "Bình Dương",
+      "district": "Thủ Dầu Một"
+    },
+    {
+      "id": "ad7ccf1c-eeb9-4058-b1ed-e6a5d2a981c5",
+      "slug": "bnh-hot-hnh-ch-b-tinh-nghch-xanh-dng",
+      "shopId": "62c7766c-7537-4038-8c29-b9cc379280aa",
+      "name": "Bánh hoạt hình chú bé tinh nghịch (Xanh dương)",
+      "shopName": "Tiệm Bánh Dâu Tây",
+      "tags": [
+        "hoạt hình"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/fd33e7ad-b6fe-4270-b200-7e90af19bdf9/products/62c7766c-7537-4038-8c29-b9cc379280aa/f32248ee13804134bc85506da8791247_b_nh_c_u_b__xanh_d__ng.webp",
+      "minPrice": 250000,
+      "maxPrice": 250000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Bé Trai",
+          "slug": "b-trai"
+        },
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Lễ Hội",
+          "slug": "bnh-l-hi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 102,
+      "province": "Bình Dương",
+      "district": "Thủ Dầu Một"
+    },
+    {
+      "id": "81c8a8c2-918e-474b-a293-fa95b59ae8ef",
+      "slug": "banh-kem-khai-truong-cafe-tp-304",
+      "shopId": "adde2b13-8306-4134-87f2-46cd0630b64b",
+      "name": "Bánh Kem Khai Trương Cafe TP 304",
+      "shopName": "Tín Phát Bakery",
+      "tags": [
+        "khai trương"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/48312b8c-cb6e-4a98-a8e2-f2df83125f43/products/adde2b13-8306-4134-87f2-46cd0630b64b/2f67bcb0d66f4a378e25b9a5e27f18b6_Ba_nh-Kem-Khai-Tru_o_ng-Cafe-TP-304.webp",
+      "minPrice": 340000,
+      "maxPrice": 1420000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Khai Trương",
+          "slug": "khai-trng"
+        },
+        {
+          "name": "Lễ Hội",
+          "slug": "bnh-l-hi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 103,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Gò Vấp"
+    },
+    {
+      "id": "b82b8160-099a-4767-94e4-dc649bc723c1",
+      "slug": "banh-kem-nhieu-hu-vang-khai-truong-tp-1520",
+      "shopId": "adde2b13-8306-4134-87f2-46cd0630b64b",
+      "name": "Bánh kem Nhiều Hủ Vàng Khai Trương TP 1520",
+      "shopName": "Tín Phát Bakery",
+      "tags": [
+        "khai trương"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/48312b8c-cb6e-4a98-a8e2-f2df83125f43/products/adde2b13-8306-4134-87f2-46cd0630b64b/187349acf7d046a98c349bb0616ab2df_Banh-kem-Nhieu-Hu-Vang-Khai-Truong-TP-1520.webp",
+      "minPrice": 300000,
+      "maxPrice": 1260000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Khai Trương",
+          "slug": "khai-trng"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 104,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Gò Vấp"
+    },
+    {
+      "id": "ffe28c54-979d-4d4e-b957-ccfccbf66ac6",
+      "slug": "banh-kem-hu-vang-khai-truong-lc-tp-1733",
+      "shopId": "adde2b13-8306-4134-87f2-46cd0630b64b",
+      "name": "Bánh Kem Hủ Vàng Khai Trương Lộc TP 1733",
+      "shopName": "Tín Phát Bakery",
+      "tags": [
+        "khai trương"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/48312b8c-cb6e-4a98-a8e2-f2df83125f43/products/adde2b13-8306-4134-87f2-46cd0630b64b/57b467fad1f6402fb36c04d05f67932f_Banh-Kem-Hu-Vang-Khai-Truong-Loc-TP-1733.webp",
+      "minPrice": 260000,
+      "maxPrice": 1260000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Khai Trương",
+          "slug": "khai-trng"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 105,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Gò Vấp"
+    },
+    {
+      "id": "f09ba071-fe51-4a87-af41-003e5a126146",
+      "slug": "banh-kem-rut-tien-de-thuong-tp-373",
+      "shopId": "adde2b13-8306-4134-87f2-46cd0630b64b",
+      "name": "Bánh Kem Rút TIền Dễ Thương TP 373",
+      "shopName": "Tín Phát Bakery",
+      "tags": [
+        "rút tiền"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/48312b8c-cb6e-4a98-a8e2-f2df83125f43/products/adde2b13-8306-4134-87f2-46cd0630b64b/878d1bd8edbe4dbab7ed54d09eb0e39b_Ba_nh-Kem-Ru_t-TIe__n-De__-Thu_o_ng-TP-373-scaled.webp",
+      "minPrice": 280000,
+      "maxPrice": 1170000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Bánh rút tiền",
+          "slug": "bnh-rt-tin"
+        },
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 106,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Gò Vấp"
+    },
+    {
+      "id": "4df6e2e8-f809-4231-ada9-703af515b8cb",
+      "slug": "banh-kem-ot-giay-tp-1861",
+      "shopId": "adde2b13-8306-4134-87f2-46cd0630b64b",
+      "name": "Bánh Kem Đốt Giấy TP 1861",
+      "shopName": "Tín Phát Bakery",
+      "tags": [
+        "đốt cháy"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/48312b8c-cb6e-4a98-a8e2-f2df83125f43/products/adde2b13-8306-4134-87f2-46cd0630b64b/2aba9ac0c86f43c9b859783867b6e8eb_Banh-Kem-Dot-Giay-TP-1861.webp",
+      "minPrice": 180000,
+      "maxPrice": 540000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 1,
+      "categories": [
+        {
+          "name": "Lễ tình nhân",
+          "slug": "l-tnh-nhn"
+        },
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Tiệc Cưới",
+          "slug": "bnh-k-nim-tic-ci"
+        },
+        {
+          "name": "Lễ Hội",
+          "slug": "bnh-l-hi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 107,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Gò Vấp"
+    },
+    {
+      "id": "dd37bcdf-0ceb-434a-9530-21c39a18640b",
+      "slug": "banh-kem-thoi-noi-meo-kitty-2-tang-tp-2929",
+      "shopId": "adde2b13-8306-4134-87f2-46cd0630b64b",
+      "name": " Bánh Kem Thôi Nôi Mèo Kitty 2 Tầng TP 2929",
+      "shopName": "Tín Phát Bakery",
+      "tags": [
+        "kitty"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/48312b8c-cb6e-4a98-a8e2-f2df83125f43/products/adde2b13-8306-4134-87f2-46cd0630b64b/7cdd7b9a9ae54da592a3c84abf2a1620_Banh-Kem-Thoi-Noi-Meo-Kitty-2-Tang-TP-2929.webp",
+      "minPrice": 710000,
+      "maxPrice": 3050000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Lễ Hội",
+          "slug": "bnh-l-hi"
+        },
+        {
+          "name": "Thôi nôi",
+          "slug": "bnh-s-kin-doanh-nghip"
+        },
+        {
+          "name": "Bé Gái",
+          "slug": "b-gi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 108,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Gò Vấp"
+    },
+    {
+      "id": "ef1df11b-822d-4a88-b3e7-5f16c988fdd6",
+      "slug": "banh-kem-2-tng-thoi-noi-con-rong-tp-3179",
+      "shopId": "adde2b13-8306-4134-87f2-46cd0630b64b",
+      "name": "Bánh Kem 2 Tầng Thôi Nôi Con Rồng TP 3179",
+      "shopName": "Tín Phát Bakery",
+      "tags": [
+        "con rồng"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/48312b8c-cb6e-4a98-a8e2-f2df83125f43/products/adde2b13-8306-4134-87f2-46cd0630b64b/6da79e3cba784dbd8eeb7f324c5eef2d_Banh-Kem-Thoi-Noi-Con-Rong-TP-3179.webp",
+      "minPrice": 770000,
+      "maxPrice": 3260000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Bé Trai",
+          "slug": "b-trai"
+        },
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Thôi nôi",
+          "slug": "bnh-s-kin-doanh-nghip"
+        },
+        {
+          "name": "Bé Gái",
+          "slug": "b-gi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 109,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Gò Vấp"
+    },
+    {
+      "id": "cf1982e1-abeb-46eb-b60e-d01b850f692d",
+      "slug": "banh-kem-thp-mousse-tiramisu-mi-vi-40-mieng-tp-2542",
+      "shopId": "adde2b13-8306-4134-87f2-46cd0630b64b",
+      "name": "Bánh Kem Tháp Mousse Tiramisu Mĩ Vị 40 Miếng TP 2542",
+      "shopName": "Tín Phát Bakery",
+      "tags": [
+        "tiramisu",
+        "mousse"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/48312b8c-cb6e-4a98-a8e2-f2df83125f43/products/adde2b13-8306-4134-87f2-46cd0630b64b/02326e35877141d097386e5b81e046bc_Banh-Kem-Mousse-Tiramisu-Mi-Vi-40-Mieng-TP-2542.webp",
+      "minPrice": 1600000,
+      "maxPrice": 1600000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Lễ Hội",
+          "slug": "bnh-l-hi"
+        },
+        {
+          "name": "Thôi nôi",
+          "slug": "bnh-s-kin-doanh-nghip"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 110,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Gò Vấp"
+    },
+    {
+      "id": "20e9556a-9c1f-4265-9b26-945081e2dace",
+      "slug": "banh-kem-lon-bia-heineken-tp-2871",
+      "shopId": "adde2b13-8306-4134-87f2-46cd0630b64b",
+      "name": "Bánh Kem Lon Bia Heineken TP 2871",
+      "shopName": "Tín Phát Bakery",
+      "tags": [
+        "bia heineken"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/48312b8c-cb6e-4a98-a8e2-f2df83125f43/products/adde2b13-8306-4134-87f2-46cd0630b64b/42fe6226efa0472da5897bb5175cbc5e_Banh-Kem-Lon-Bia-Heineken-TP-2871.webp",
+      "minPrice": 330000,
+      "maxPrice": 2500000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Tốt nghiệp",
+          "slug": "tt-nghip"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 111,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Gò Vấp"
+    },
+    {
+      "id": "29b19f65-e64c-452f-9a54-46a3ac50803f",
+      "slug": "banh-kem-lon-bia-tiger-tp-2870",
+      "shopId": "adde2b13-8306-4134-87f2-46cd0630b64b",
+      "name": "Bánh Kem Lon Bia Tiger TP 2870",
+      "shopName": "Tín Phát Bakery",
+      "tags": [
+        "bia tiger"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/48312b8c-cb6e-4a98-a8e2-f2df83125f43/products/adde2b13-8306-4134-87f2-46cd0630b64b/78b2c195e5a4441da5a5be2ae505b3bc_Banh-Kem-Lon-Bia-Tiger-TP-2870.webp",
+      "minPrice": 330000,
+      "maxPrice": 2500000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Tốt nghiệp",
+          "slug": "tt-nghip"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 112,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Gò Vấp"
+    },
+    {
+      "id": "b1a0c668-c717-4bf2-91a0-7a01045b0a30",
+      "slug": "banh-kem-3-tang-chu-cang-guong-vang-tp-2932",
+      "shopId": "adde2b13-8306-4134-87f2-46cd0630b64b",
+      "name": "Bánh Kem 3 Tầng Chữ Cáng Gương Vàng TP 2932",
+      "shopName": "Tín Phát Bakery",
+      "tags": [
+        "3 tầng"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/48312b8c-cb6e-4a98-a8e2-f2df83125f43/products/adde2b13-8306-4134-87f2-46cd0630b64b/9380209b5ea2411a9e6e6034f5cb606e_Banh-Kem-3-Tang-Chu-Cang-Guong-Vang-TP-2932.webp",
+      "minPrice": 1340000,
+      "maxPrice": 4040000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Tốt nghiệp",
+          "slug": "tt-nghip"
+        },
+        {
+          "name": "Tiệc Cưới",
+          "slug": "bnh-k-nim-tic-ci"
+        },
+        {
+          "name": "Lễ Hội",
+          "slug": "bnh-l-hi"
+        },
+        {
+          "name": "Thôi nôi",
+          "slug": "bnh-s-kin-doanh-nghip"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 113,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Gò Vấp"
+    },
+    {
+      "id": "877c1c1a-970c-46fa-889c-9fb4d25825a1",
+      "slug": "banh-kem-trai-tim-socola-tp-97",
+      "shopId": "adde2b13-8306-4134-87f2-46cd0630b64b",
+      "name": "Bánh Kem Trái Tim Socola TP 97",
+      "shopName": "Tín Phát Bakery",
+      "tags": [
+        "valentine"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/48312b8c-cb6e-4a98-a8e2-f2df83125f43/products/adde2b13-8306-4134-87f2-46cd0630b64b/89e7f5a7174b4f06b1c048f377cbafb7_Ba_nh-Kem-Tra_i-Tim-Socola-TP-97.webp",
+      "minPrice": 260000,
+      "maxPrice": 1090000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Lễ tình nhân",
+          "slug": "l-tnh-nhn"
+        },
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Lễ Hội",
+          "slug": "bnh-l-hi"
+        },
+        {
+          "name": "Bé Gái",
+          "slug": "b-gi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 114,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Gò Vấp"
+    },
+    {
+      "id": "187a38b0-4229-4324-8239-3799117fb389",
+      "slug": "banh-kem-trai-cay-tp-95",
+      "shopId": "adde2b13-8306-4134-87f2-46cd0630b64b",
+      "name": "Bánh Kem Trái Cây TP 95",
+      "shopName": "Tín Phát Bakery",
+      "tags": [
+        "trái cây"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/48312b8c-cb6e-4a98-a8e2-f2df83125f43/products/adde2b13-8306-4134-87f2-46cd0630b64b/45b61cbbefcd474485796011ffc55d86_Ba_nh-Kem-Tra_i-Ca_y-TP-95.webp",
+      "minPrice": 260000,
+      "maxPrice": 1090000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Tốt nghiệp",
+          "slug": "tt-nghip"
+        },
+        {
+          "name": "Tặng Mẹ",
+          "slug": "tng-m"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 115,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Gò Vấp"
+    },
+    {
+      "id": "ee3cf98f-5b06-44ad-a275-40db1454aa85",
+      "slug": "banh-kem-rt-tin-mung-tho-tp-1306",
+      "shopId": "adde2b13-8306-4134-87f2-46cd0630b64b",
+      "name": "Bánh Kem Rút Tiền Mừng Thọ TP 1306",
+      "shopName": "Tín Phát Bakery",
+      "tags": [
+        "tặng mẹ"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/48312b8c-cb6e-4a98-a8e2-f2df83125f43/products/adde2b13-8306-4134-87f2-46cd0630b64b/afd20d3bcf654c728961d9eab8b7fbd8_Ba_nh-Kem-Mu__ng-Tho_-TP-1306.webp",
+      "minPrice": 320000,
+      "maxPrice": 1340000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Bánh rút tiền",
+          "slug": "bnh-rt-tin"
+        },
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Tặng Mẹ",
+          "slug": "tng-m"
+        },
+        {
+          "name": "Lễ Hội",
+          "slug": "bnh-l-hi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 116,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Gò Vấp"
+    },
+    {
+      "id": "0efed9a9-a007-4fdd-8281-bf35b6e54554",
+      "slug": "banh-kem-ot-chay-bong-a-tp-2847",
+      "shopId": "adde2b13-8306-4134-87f2-46cd0630b64b",
+      "name": "Bánh Kem Đốt Cháy Bóng Đá TP 2847",
+      "shopName": "Tín Phát Bakery",
+      "tags": [
+        "đốt cháy",
+        "bóng đá"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/48312b8c-cb6e-4a98-a8e2-f2df83125f43/products/adde2b13-8306-4134-87f2-46cd0630b64b/55fd86e1c1f8432f9a24861f931c2256_Banh-Kem-Dot-Chay-Bong-Da-TP-2847.webp",
+      "minPrice": 230000,
+      "maxPrice": 720000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Bánh đốt cháy",
+          "slug": "bnh-t-chy"
+        },
+        {
+          "name": "Bé Trai",
+          "slug": "b-trai"
+        },
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Lễ Hội",
+          "slug": "bnh-l-hi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 117,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Gò Vấp"
+    },
+    {
+      "id": "f645a9de-475a-4983-a9c9-b4364860e4da",
+      "slug": "banh-kem-ot-chay-2-tang-tp-2921",
+      "shopId": "adde2b13-8306-4134-87f2-46cd0630b64b",
+      "name": "Bánh Kem Đốt Cháy 2 Tầng TP 2921",
+      "shopName": "Tín Phát Bakery",
+      "tags": [
+        "2 tầng",
+        "đốt cháy"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/48312b8c-cb6e-4a98-a8e2-f2df83125f43/products/adde2b13-8306-4134-87f2-46cd0630b64b/f972393de7714ab183753447df48b635_Banh-Kem-Dot-Chay-2-Tang-TP-2921.webp",
+      "minPrice": 770000,
+      "maxPrice": 3260000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Bánh đốt cháy",
+          "slug": "bnh-t-chy"
+        },
+        {
+          "name": "Bé Trai",
+          "slug": "b-trai"
+        },
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Tốt nghiệp",
+          "slug": "tt-nghip"
+        },
+        {
+          "name": "Lễ Hội",
+          "slug": "bnh-l-hi"
+        },
+        {
+          "name": "Thôi nôi",
+          "slug": "bnh-s-kin-doanh-nghip"
+        },
+        {
+          "name": "Bé Gái",
+          "slug": "b-gi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 118,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Gò Vấp"
+    },
+    {
+      "id": "b36d4934-67ae-4101-a225-97e0c1d2d7dc",
+      "slug": "banh-kem-ot-chay-tp-1854",
+      "shopId": "adde2b13-8306-4134-87f2-46cd0630b64b",
+      "name": "Bánh Kem Đốt Cháy TP 1854",
+      "shopName": "Tín Phát Bakery",
+      "tags": [
+        "đốt cháy"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/48312b8c-cb6e-4a98-a8e2-f2df83125f43/products/adde2b13-8306-4134-87f2-46cd0630b64b/187f0911c678499391b096ff066c0221_Banh-Kem-Dot-Chay-TP-1854.webp",
+      "minPrice": 160000,
+      "maxPrice": 480000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Bánh đốt cháy",
+          "slug": "bnh-t-chy"
+        },
+        {
+          "name": "Lễ tình nhân",
+          "slug": "l-tnh-nhn"
+        },
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Lễ Hội",
+          "slug": "bnh-l-hi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 119,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Gò Vấp"
+    },
+    {
+      "id": "a856cb09-626d-4b89-af66-af33f7c2c828",
+      "slug": "banh-kem-ho-mini-tp-1649",
+      "shopId": "adde2b13-8306-4134-87f2-46cd0630b64b",
+      "name": "Bánh Kem Hổ Mini TP 1649",
+      "shopName": "Tín Phát Bakery",
+      "tags": [
+        "cute",
+        "tuổi hổ"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/48312b8c-cb6e-4a98-a8e2-f2df83125f43/products/adde2b13-8306-4134-87f2-46cd0630b64b/2aeb016d243d434eba7515f94d61632b_Ba_nh-Kem-Ho__-Mini-TP-1649-scaled.webp",
+      "minPrice": 260000,
+      "maxPrice": 470000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 1,
+      "categories": [
+        {
+          "name": "Bé Trai",
+          "slug": "b-trai"
+        },
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Thôi nôi",
+          "slug": "bnh-s-kin-doanh-nghip"
+        },
+        {
+          "name": "Bé Gái",
+          "slug": "b-gi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 120,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Gò Vấp"
+    },
+    {
+      "id": "b1383d7e-51d7-4fb2-9b89-f56b900852a2",
+      "slug": "banh-kem-bp-ho-con-mini-tp-602",
+      "shopId": "adde2b13-8306-4134-87f2-46cd0630b64b",
+      "name": "Bánh Kem Bắp Hổ Con Mini TP 602",
+      "shopName": "Tín Phát Bakery",
+      "tags": [
+        "con hổ",
+        "tuổi hổ"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/48312b8c-cb6e-4a98-a8e2-f2df83125f43/products/adde2b13-8306-4134-87f2-46cd0630b64b/3e1d4c86875948de9e75a0ebfc91992d_Ba_nh-Kem-Ho__-Con-Mini-TP-602-scaled.webp",
+      "minPrice": 240000,
+      "maxPrice": 1640000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Bé Trai",
+          "slug": "b-trai"
+        },
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Lễ Hội",
+          "slug": "bnh-l-hi"
+        },
+        {
+          "name": "Thôi nôi",
+          "slug": "bnh-s-kin-doanh-nghip"
+        },
+        {
+          "name": "Bé Gái",
+          "slug": "b-gi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 121,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Gò Vấp"
+    },
+    {
+      "id": "e7b4b9e4-617c-43bf-87fe-957563a07276",
+      "slug": "banh-kem-bap-yeu-nuoc-tp-2736",
+      "shopId": "adde2b13-8306-4134-87f2-46cd0630b64b",
+      "name": "Bánh Kem Bắp Yêu Nước TP 2736",
+      "shopName": "Tín Phát Bakery",
+      "tags": [
+        "bánh kem bắp"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/48312b8c-cb6e-4a98-a8e2-f2df83125f43/products/adde2b13-8306-4134-87f2-46cd0630b64b/6cb7e110271b41639cb8e76a5e7ba5ae_Banh-Kem-Bap-Yeu-Nuoc-TP-2736.webp",
+      "minPrice": 220000,
+      "maxPrice": 1520000,
+      "rating": 5,
+      "reviewCount": 1,
+      "totalSold": 1,
+      "categories": [
+        {
+          "name": "Bé Trai",
+          "slug": "b-trai"
+        },
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Tốt nghiệp",
+          "slug": "tt-nghip"
+        },
+        {
+          "name": "Lễ Hội",
+          "slug": "bnh-l-hi"
+        },
+        {
+          "name": "Thôi nôi",
+          "slug": "bnh-s-kin-doanh-nghip"
+        },
+        {
+          "name": "Bé Gái",
+          "slug": "b-gi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 122,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Gò Vấp"
+    },
+    {
+      "id": "4249b36c-803e-4fdf-a30b-4ddcc8579dab",
+      "slug": "banh-kem-bap-tp-77",
+      "shopId": "adde2b13-8306-4134-87f2-46cd0630b64b",
+      "name": "Bánh Kem Bắp TP 77",
+      "shopName": "Tín Phát Bakery",
+      "tags": [
+        "bap",
+        "tp"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/48312b8c-cb6e-4a98-a8e2-f2df83125f43/products/adde2b13-8306-4134-87f2-46cd0630b64b/138311db39134b81aaf4f2e3348b5660_Banh-Kem-Bap-TP-77-2.webp",
+      "minPrice": 220000,
+      "maxPrice": 1520000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Bé Trai",
+          "slug": "b-trai"
+        },
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Tốt nghiệp",
+          "slug": "tt-nghip"
+        },
+        {
+          "name": "Tiệc Cưới",
+          "slug": "bnh-k-nim-tic-ci"
+        },
+        {
+          "name": "Thôi nôi",
+          "slug": "bnh-s-kin-doanh-nghip"
+        },
+        {
+          "name": "Bé Gái",
+          "slug": "b-gi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 123,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Gò Vấp"
+    },
+    {
+      "id": "d7ee24bc-b691-406c-93d3-eee6f160f6b8",
+      "slug": "banh-kem-mousse-chanh-day",
+      "shopId": "adde2b13-8306-4134-87f2-46cd0630b64b",
+      "name": "Bánh Kem Mousse Chanh Dây",
+      "shopName": "Tín Phát Bakery",
+      "tags": [
+        "chanhday",
+        "mousse"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/48312b8c-cb6e-4a98-a8e2-f2df83125f43/products/adde2b13-8306-4134-87f2-46cd0630b64b/132d6a2538f34064a8b60e716f053c59_Banh-Kem-Chanh-Day-1.webp",
+      "minPrice": 200000,
+      "maxPrice": 550000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Lễ Hội",
+          "slug": "bnh-l-hi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 124,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Gò Vấp"
+    },
+    {
+      "id": "bd625cb0-056e-46b9-aa01-64ecd87bc78e",
+      "slug": "banh-kem-tiramisu",
+      "shopId": "adde2b13-8306-4134-87f2-46cd0630b64b",
+      "name": "Bánh Kem Tiramisu",
+      "shopName": "Tín Phát Bakery",
+      "tags": [
+        "tiramisu"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/48312b8c-cb6e-4a98-a8e2-f2df83125f43/products/adde2b13-8306-4134-87f2-46cd0630b64b/ab388c8c23784f8bab540c9f2882ea22_Ba_nh-Kem-Tiramisu-Mousse-Ba__p.webp",
+      "minPrice": 200000,
+      "maxPrice": 1290000,
+      "rating": 5,
+      "reviewCount": 1,
+      "totalSold": 1,
+      "categories": [
+        {
+          "name": "Bé Trai",
+          "slug": "b-trai"
+        },
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Lễ Hội",
+          "slug": "bnh-l-hi"
+        },
+        {
+          "name": "Bé Gái",
+          "slug": "b-gi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 125,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Gò Vấp"
+    },
+    {
+      "id": "ba6f6689-6606-4550-ae6e-2ae5252e6643",
+      "slug": "bnh-kem-hoa-ngh-thut-tone-hng-style-c-in",
+      "shopId": "62c7766c-7537-4038-8c29-b9cc379280aa",
+      "name": "Bánh kem Hoa nghệ thuật Tone Hồng Style Cổ điển ",
+      "shopName": "Tiệm Bánh Dâu Tây",
+      "tags": [
+        "tặng mẹ",
+        "cổ điển",
+        "best saller"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/fd33e7ad-b6fe-4270-b200-7e90af19bdf9/products/62c7766c-7537-4038-8c29-b9cc379280aa/bc8e8c051ab54dcd95898c124c17b130_b_nh_chery_hoa.webp",
+      "minPrice": 260000,
+      "maxPrice": 300000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Lễ Hội",
+          "slug": "bnh-l-hi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 126,
+      "province": "Bình Dương",
+      "district": "Thủ Dầu Một"
+    },
+    {
+      "id": "f1432885-de74-4832-9b55-f804b20a8d90",
+      "slug": "bnh-kem-nng-th-vn-hoa-hng",
+      "shopId": "62c7766c-7537-4038-8c29-b9cc379280aa",
+      "name": "Bánh Kem Nàng Thơ & Vườn Hoa Hồng",
+      "shopName": "Tiệm Bánh Dâu Tây",
+      "tags": [
+        "hot",
+        "cổ điển",
+        "quý phái"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/fd33e7ad-b6fe-4270-b200-7e90af19bdf9/products/62c7766c-7537-4038-8c29-b9cc379280aa/5b345f96898b4f498d9fb7bdd2dc38d5_b_nh_c__c__g_i.webp",
+      "minPrice": 260000,
+      "maxPrice": 300000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Lễ Hội",
+          "slug": "bnh-l-hi"
+        },
+        {
+          "name": "Bé Gái",
+          "slug": "b-gi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 127,
+      "province": "Bình Dương",
+      "district": "Thủ Dầu Một"
+    },
+    {
+      "id": "4c781f19-1608-4f7c-831a-5815f4908456",
+      "slug": "bnh-kem-du-ty-hoa-hng-c-in",
+      "shopId": "62c7766c-7537-4038-8c29-b9cc379280aa",
+      "name": "Bánh Kem Dâu Tây & Hoa Hồng Cổ Điển",
+      "shopName": "Tiệm Bánh Dâu Tây",
+      "tags": [
+        "cổ điển"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/fd33e7ad-b6fe-4270-b200-7e90af19bdf9/products/62c7766c-7537-4038-8c29-b9cc379280aa/f93af69e98c44728a60b1fe9dc423550_b_nh_hoa_d_u_t_y_cam.webp",
+      "minPrice": 260000,
+      "maxPrice": 300000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Lễ Hội",
+          "slug": "bnh-l-hi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 128,
+      "province": "Bình Dương",
+      "district": "Thủ Dầu Một"
+    },
+    {
+      "id": "58759944-bd3c-446f-b122-790c8a5e653d",
+      "slug": "bnh-kem-th-hng-d-thng",
+      "shopId": "62c7766c-7537-4038-8c29-b9cc379280aa",
+      "name": "Bánh Kem Thỏ Hồng dễ thương",
+      "shopName": "Tiệm Bánh Dâu Tây",
+      "tags": [
+        "hot",
+        "hoạt hình",
+        "dễ thương"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/fd33e7ad-b6fe-4270-b200-7e90af19bdf9/products/62c7766c-7537-4038-8c29-b9cc379280aa/eb59b6f361004a58830ef952b9ee0702_b_nh_b__th__h_ng.webp",
+      "minPrice": 280000,
+      "maxPrice": 280000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Lễ Hội",
+          "slug": "bnh-l-hi"
+        },
+        {
+          "name": "Thôi nôi",
+          "slug": "bnh-s-kin-doanh-nghip"
+        },
+        {
+          "name": "Bé Gái",
+          "slug": "b-gi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 129,
+      "province": "Bình Dương",
+      "district": "Thủ Dầu Một"
+    },
+    {
+      "id": "fb440a31-88b0-40b9-944b-5e8b66adfe93",
+      "slug": "bnh-kem-gic-m-th-ngc",
+      "shopId": "62c7766c-7537-4038-8c29-b9cc379280aa",
+      "name": "Bánh Kem Giấc Mơ Thỏ Ngọc",
+      "shopName": "Tiệm Bánh Dâu Tây",
+      "tags": [
+        "hoạt hình",
+        "hot"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/fd33e7ad-b6fe-4270-b200-7e90af19bdf9/products/62c7766c-7537-4038-8c29-b9cc379280aa/4d4c34f9d58b4205a6c6508f57a28792_b_nh_b__th__xanh.webp",
+      "minPrice": 280000,
+      "maxPrice": 280000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Lễ Hội",
+          "slug": "bnh-l-hi"
+        },
+        {
+          "name": "Thôi nôi",
+          "slug": "bnh-s-kin-doanh-nghip"
+        },
+        {
+          "name": "Bé Gái",
+          "slug": "b-gi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 130,
+      "province": "Bình Dương",
+      "district": "Thủ Dầu Một"
+    },
+    {
+      "id": "78e0fe3d-5c99-4458-83e3-44f6f9c8d8df",
+      "slug": "bnh-kem-vng-hoa-ngt-ngo",
+      "shopId": "62c7766c-7537-4038-8c29-b9cc379280aa",
+      "name": "Bánh Kem Vòng Hoa Ngọt Ngào",
+      "shopName": "Tiệm Bánh Dâu Tây",
+      "tags": [
+        "best seller"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/fd33e7ad-b6fe-4270-b200-7e90af19bdf9/products/62c7766c-7537-4038-8c29-b9cc379280aa/d9b5af01673e4e30882301d76f9db31b_b_nh_hoa_xanh_d__ng.webp",
+      "minPrice": 260000,
+      "maxPrice": 300000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Lễ Hội",
+          "slug": "bnh-l-hi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 131,
+      "province": "Bình Dương",
+      "district": "Thủ Dầu Một"
+    },
+    {
+      "id": "48f157cc-5bc5-481b-a438-9af8dd81e015",
+      "slug": "bnh-hot-hnh-c-b-tinh-nghch",
+      "shopId": "62c7766c-7537-4038-8c29-b9cc379280aa",
+      "name": "Bánh hoạt hình cô bé tinh nghịch",
+      "shopName": "Tiệm Bánh Dâu Tây",
+      "tags": [
+        "hoạt hình"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/fd33e7ad-b6fe-4270-b200-7e90af19bdf9/products/62c7766c-7537-4038-8c29-b9cc379280aa/b572bdad589a4309825fdfcdf45128db_b_nh_b__h_ng.webp",
+      "minPrice": 250000,
+      "maxPrice": 250000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        },
+        {
+          "name": "Bé Gái",
+          "slug": "b-gi"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 132,
+      "province": "Bình Dương",
+      "district": "Thủ Dầu Một"
+    },
+    {
+      "id": "d19d2ca1-8ea4-4035-bc1c-218723eb12b4",
+      "slug": "bnh-hot-hnh-ch-b-tinh-nghch",
+      "shopId": "62c7766c-7537-4038-8c29-b9cc379280aa",
+      "name": "Bánh hoạt hình chú bé tinh nghịch",
+      "shopName": "Tiệm Bánh Dâu Tây",
+      "tags": [
+        "hoạt hình"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/fd33e7ad-b6fe-4270-b200-7e90af19bdf9/products/62c7766c-7537-4038-8c29-b9cc379280aa/9b4733f323214f06a8b560621f256bfc_b_nh_b__xa_l_nh.webp",
+      "minPrice": 250000,
+      "maxPrice": 250000,
+      "rating": 5,
+      "reviewCount": 2,
+      "totalSold": 2,
+      "categories": [
+        {
+          "name": "Bé Trai",
+          "slug": "b-trai"
+        },
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 133,
+      "province": "Bình Dương",
+      "district": "Thủ Dầu Một"
+    },
+    {
+      "id": "eb9a9b8f-ecf5-4e62-a914-691966e6a744",
+      "slug": "bnh-kem-hoa-hng-cherry",
+      "shopId": "62c7766c-7537-4038-8c29-b9cc379280aa",
+      "name": "Bánh Kem Hoa Hồng Cherry",
+      "shopName": "Tiệm Bánh Dâu Tây",
+      "tags": [
+        "best seller"
+      ],
+      "thumbnail": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/fd33e7ad-b6fe-4270-b200-7e90af19bdf9/products/62c7766c-7537-4038-8c29-b9cc379280aa/4cdc29a2412d40069a3fc2bf7b5f3e18_banh_hoa_chery.webp",
+      "minPrice": 230000,
+      "maxPrice": 230000,
+      "rating": 0,
+      "reviewCount": 0,
+      "totalSold": 0,
+      "categories": [
+        {
+          "name": "Sinh Nhật",
+          "slug": "bnh-sinh-nht"
+        }
+      ],
+      "isExpressEligible": false,
+      "preparationTimeHours": null,
+      "sourceOrder": 134,
+      "province": "Bình Dương",
+      "district": "Thủ Dầu Một"
+    }
+  ],
+  "shops": [
+    {
+      "id": "a027f395-a99a-401c-a699-4bca7168c7d4",
+      "slug": "tiem-banh-huynh-xuyen",
+      "name": "Tiệm Bánh Huỳnh Xuyên",
+      "description": "Chuyên nhận đặt hàng bánh kem theo mẫu có sẵn hoặc theo yêu cầu của quý khách 💕💕",
+      "avatarUrl": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/c108649b-dfa9-41f2-aeca-db28f70bb2f0/avatars/shops/2bc00b3f3ee94f88badf3e01ef22817a_logo_hu_nh_xuy_n.webp",
+      "bannerUrl": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/c108649b-dfa9-41f2-aeca-db28f70bb2f0/shops/banner/2fbb98896e694033a9cbfb33c9a95bb2_banner_hu_nh_xuy_n.webp",
+      "acceptsCustomOrders": true,
+      "totalOrders": 3,
+      "rating": 5,
+      "reviewCount": 1,
+      "streetAddress": "42a Thống Nhất",
+      "ward": "Kiot 9",
+      "isVerified": true,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Thủ Đức"
+    },
+    {
+      "id": "b46784d1-5643-458a-b90d-7275790d9cd0",
+      "slug": "bum-bum-bakery",
+      "name": "Bum Bum Bakery",
+      "description": null,
+      "avatarUrl": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/cf0abcef-ab3b-42e2-9130-933125ce7a2f/avatars/shops/9e8159323455402f803b3a842c6fcc61_Logo_BUMBUM.webp",
+      "bannerUrl": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/cf0abcef-ab3b-42e2-9130-933125ce7a2f/shops/banner/735726f423624b7a9828b054df092af6_474535236_1106791344791488_4655500737485667132_n.webp",
+      "acceptsCustomOrders": false,
+      "totalOrders": 0,
+      "rating": 0,
+      "reviewCount": 0,
+      "streetAddress": "Bum Bum Bakery, 277 Nguyễn Trãi",
+      "ward": "Phường 2",
+      "isVerified": false,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Quận 5"
+    },
+    {
+      "id": "62c7766c-7537-4038-8c29-b9cc379280aa",
+      "slug": "tiem-banh-dau-tay",
+      "name": "Tiệm Bánh Dâu Tây",
+      "description": "Tiệm Bánh Dâu Tây – Nơi gửi gắm những chiếc bánh kem thiết kế tỉ mỉ, ngọt ngào và chỉn chu trong từng chi tiết. Dành tặng những điều tuyệt vời nhất cho khoảnh khắc đặc biệt của bạn! 🌸🍓",
+      "avatarUrl": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/fd33e7ad-b6fe-4270-b200-7e90af19bdf9/avatars/shops/f808b3b7f0c0458a91d95660d7f195e9_logo_b_nh_kem_d_u_t_y.webp",
+      "bannerUrl": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/fd33e7ad-b6fe-4270-b200-7e90af19bdf9/shops/banner/a5e9e880b44044c9baf6ebf85be3c3bb_banner_d_u_t_y.webp",
+      "acceptsCustomOrders": true,
+      "totalOrders": 17,
+      "rating": 5,
+      "reviewCount": 10,
+      "streetAddress": "910 Cách Mạng Tháng 8",
+      "ward": "Chánh Nghĩa",
+      "isVerified": true,
+      "province": "Bình Dương",
+      "district": "Thủ Dầu Một"
+    },
+    {
+      "id": "82538a16-a34c-4abf-b739-df0d43cbbf0d",
+      "slug": "tiem-banh-anh-huong",
+      "name": "Tiệm Bánh Ánh Hương",
+      "description": "Cung cấp các loại bánh: Sinh nhật, bánh tráng miệng tiệc cưới, buffet ...",
+      "avatarUrl": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/3ab1da31-b1d6-4e0c-8ea8-4d984b99adc0/avatars/shops/a94a41588cf04434b08d2582216316f1_images__2_.webp",
+      "bannerUrl": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/3ab1da31-b1d6-4e0c-8ea8-4d984b99adc0/shops/banner/7a98d6256b794efd9da1b93cfc1e083c_0441fc6e-7c7b-4439-b829-482d52561c83.webp",
+      "acceptsCustomOrders": true,
+      "totalOrders": 2,
+      "rating": 5,
+      "reviewCount": 2,
+      "streetAddress": "181 Nam Kỳ Khởi Nghĩa",
+      "ward": "",
+      "isVerified": true,
+      "province": "Bà Rịa - Vũng Tàu",
+      "district": "Vũng Tàu"
+    },
+    {
+      "id": "1cff905f-d5c4-4c3e-85f7-867e66244437",
+      "slug": "paris-gato",
+      "name": "Paris Gato",
+      "description": "Paris Gato – tiệm bánh thủ công với những chiếc bánh được làm tỉ mỉ từ nguyên liệu chất lượng, chú trọng hương vị và sự chỉn chu trong từng sản phẩm.",
+      "avatarUrl": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/bd019163-c112-45e8-ba57-6d08c5e6140d/avatars/shops/799acb895eb5451faf1a97756cb9e3ea_ChatGPT_Image_14_43_46_9_thg_8__2026.webp",
+      "bannerUrl": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/bd019163-c112-45e8-ba57-6d08c5e6140d/shops/banner/56b4c3d20de745cfae6d63dd1f32f2f8_ChatGPT_Image_14_58_02_9_thg_8__2026.webp",
+      "acceptsCustomOrders": false,
+      "totalOrders": 5,
+      "rating": 5,
+      "reviewCount": 2,
+      "streetAddress": "151 - 153 Lê Văn Sỹ",
+      "ward": "",
+      "isVerified": true,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Phú Nhuận"
+    },
+    {
+      "id": "adde2b13-8306-4134-87f2-46cd0630b64b",
+      "slug": "tin-phat-bakery",
+      "name": "Tín Phát Bakery",
+      "description": "Tín Phát Bakery hay con gọi là Bánh Kẹo Tín Phát là Top thương hiệu bánh kem tại  Pleiku, Gia Lai và Tp. Hồ Chí Minh.\nVới phương châm làm bánh NGON BỔ RẺ, Tín Phát Bakery tiếp tục tự tin cung cấp dịch vụ bánh kem chất lượng, với giá tốt.",
+      "avatarUrl": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/48312b8c-cb6e-4a98-a8e2-f2df83125f43/avatars/shops/df593068c54d43d5a6f6ef1b71a56fa3_Logo-Ti_n-Pha_t.webp",
+      "bannerUrl": "https://pub-85ee30a54207460388ecc8b899ca0275.r2.dev/users/48312b8c-cb6e-4a98-a8e2-f2df83125f43/shops/banner/d70dfe4ec13e49ebafca2a8182ae05c4_ecab0981-a3cb-4876-96a9-a53035acf404.webp",
+      "acceptsCustomOrders": false,
+      "totalOrders": 4,
+      "rating": 5,
+      "reviewCount": 2,
+      "streetAddress": "171 Lê Đức Thọ",
+      "ward": "Phường 17",
+      "isVerified": true,
+      "province": "TP. Hồ Chí Minh",
+      "district": "Gò Vấp"
+    }
+  ],
+  "locations": [
+    {
+      "province": "TP. Hồ Chí Minh",
+      "label": "TP. Hồ Chí Minh",
+      "requiresDistrict": true,
+      "districts": [
+        "Gò Vấp",
+        "Phú Nhuận",
+        "Quận 5",
+        "Thủ Đức"
+      ]
+    },
+    {
+      "province": "Bà Rịa - Vũng Tàu",
+      "label": "Vũng Tàu",
+      "requiresDistrict": false,
+      "districts": [
+        "Vũng Tàu"
+      ]
+    },
+    {
+      "province": "Bình Dương",
+      "label": "Thủ Dầu Một",
+      "requiresDistrict": false,
+      "districts": [
+        "Thủ Dầu Một"
+      ]
+    }
+  ]
+}
