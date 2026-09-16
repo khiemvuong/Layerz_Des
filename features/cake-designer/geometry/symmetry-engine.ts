@@ -22,13 +22,27 @@ function cloneForRule(source: DesignItem, rule: SymmetryRule, index: number): De
     const count = Math.max(2, rule.count ?? 4);
     const start = rule.startAngle ?? 0;
     const angle = start + (Math.PI * 2 * index) / count;
-    const dx = source.surfacePosition.u - 0.5;
-    const dy = source.surfacePosition.v - 0.5;
-    const radius = Math.hypot(dx, dy);
-    const baseAngle = Math.atan2(dy, dx);
-    position.u = clamp01(0.5 + Math.cos(baseAngle + angle) * radius);
-    position.v = clamp01(0.5 + Math.sin(baseAngle + angle) * radius);
-    transform.rotation = source.transform.rotation + (angle * 180) / Math.PI;
+    const centerU = rule.centerU ?? .5;
+    const centerV = rule.centerV ?? .5;
+    const sourceDx = source.surfacePosition.u - centerU;
+    const sourceDy = source.surfacePosition.v - centerV;
+    const normalizedRadius = rule.radius ?? Math.hypot(sourceDx, sourceDy) * 2;
+    const radiusNoise = signedSeededValue(rule.randomSeed ?? 1, index, 1) * (rule.radiusVariation ?? 0);
+    const radius = Math.max(0, normalizedRadius + radiusNoise) / 2;
+    position.u = clamp01(centerU + Math.cos(angle) * radius);
+    position.v = clamp01(centerV + Math.sin(angle) * radius);
+    const angleDegrees = angle * 180 / Math.PI;
+    const orientationOffset = rule.orientation === "radial" ? -90 : 90;
+    transform.rotation = angleDegrees + orientationOffset
+      + signedSeededValue(rule.randomSeed ?? 1, index, 2) * (rule.rotationVariation ?? 0);
+    const scale = 1 + signedSeededValue(rule.randomSeed ?? 1, index, 3) * (rule.scaleVariation ?? 0);
+    transform.scaleX = Math.max(.1, source.transform.scaleX * scale);
+    transform.scaleY = Math.max(.1, source.transform.scaleY * scale);
+    if (clone.type === "asset" && rule.variantIds?.length) {
+      const variantIndex = Math.floor(seededValue(rule.randomSeed ?? 1, index, 4) * rule.variantIds.length);
+      clone.assetId = rule.variantIds[Math.min(rule.variantIds.length - 1, variantIndex)];
+      if (clone.placement) clone.placement = { ...clone.placement, variantId: clone.assetId };
+    }
   } else if (rule.mode === "mirror-horizontal") {
     position.u = clamp01(2 * (rule.axisU ?? 0.5) - source.surfacePosition.u);
     transform.flipX = !source.transform.flipX;
@@ -40,6 +54,17 @@ function cloneForRule(source: DesignItem, rule: SymmetryRule, index: number): De
   clone.surfacePosition = position;
   clone.transform = transform;
   return clone;
+}
+
+function seededValue(seed: number, index: number, channel: number): number {
+  let value = (seed ^ Math.imul(index + 1, 0x9e3779b1) ^ Math.imul(channel + 1, 0x85ebca6b)) >>> 0;
+  value = Math.imul(value ^ value >>> 16, 0x7feb352d);
+  value = Math.imul(value ^ value >>> 15, 0x846ca68b);
+  return ((value ^ value >>> 16) >>> 0) / 4294967296;
+}
+
+function signedSeededValue(seed: number, index: number, channel: number): number {
+  return seededValue(seed, index, channel) * 2 - 1;
 }
 
 export function generateSymmetryInstances(

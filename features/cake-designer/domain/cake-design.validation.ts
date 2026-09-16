@@ -12,9 +12,12 @@ function isItem(value: unknown): value is DesignItem {
 export function validateCakeDesign(value: unknown): asserts value is CakeDesign {
   if (!value || typeof value !== "object") throw new Error("Thiết kế không hợp lệ.");
   const design = value as Partial<CakeDesign>;
-  if (design.version !== 1) throw new Error(`Phiên bản thiết kế ${String(design.version)} chưa được hỗ trợ.`);
+  if (design.version !== 2) throw new Error(`Phiên bản thiết kế ${String(design.version)} chưa được hỗ trợ.`);
   if (!design.cake || !Array.isArray(design.items) || !design.items.every(isItem)) {
     throw new Error("Dữ liệu thiết kế bị thiếu hoặc sai định dạng.");
+  }
+  if (!Array.isArray(design.tiers) || design.tiers.length < 1 || design.tiers.length > 3) {
+    throw new Error("Thiết kế phải có từ một đến ba tầng bánh.");
   }
   if (!Array.isArray(design.symmetryRules)) throw new Error("Dữ liệu đối xứng không hợp lệ.");
 }

@@ -52,6 +52,7 @@ export function isItemVisibleInView(
 ): boolean {
   if (view === "top") return item.surfacePosition.surface === "top";
   if (item.surfacePosition.surface !== "side") return false;
+  if (item.placement?.renderMode === "side-band") return true;
   return Math.abs(circularDelta(item.surfacePosition.u, SIDE_VIEW_CENTERS[view])) <= 0.27;
 }
 
@@ -104,11 +105,17 @@ export function projectItemToView(
   viewport: ViewportConfig = { width: 1000, height: 700 },
 ): ProjectedItem | null {
   if (!isItemVisibleInView(item, cake, view)) return null;
-  const point = canvasPointFromSurfacePoint(item.surfacePosition, viewport, cake, view);
+  const projectedPosition = item.placement?.renderMode === "side-band" && view !== "top"
+    ? { ...item.surfacePosition, u: SIDE_VIEW_CENTERS[view] }
+    : item.surfacePosition;
+  const point = canvasPointFromSurfacePoint(projectedPosition, viewport, cake, view);
   const seamOffset = item.surfacePosition.surface === "side"
     ? (item.surfacePosition.u > 0.75 && view === "front" ? -1 : item.surfacePosition.u < 0.25 && view === "left" ? 1 : 0)
     : 0;
-  return { item, x: point.x, y: point.y, visible: true, seamOffset };
+  const depth = item.surfacePosition.surface === "side"
+    ? Math.cos(circularDelta(item.surfacePosition.u, view === "top" ? 0 : SIDE_VIEW_CENTERS[view]) * Math.PI * 2)
+    : item.surfacePosition.v;
+  return { item, x: point.x, y: point.y, visible: true, seamOffset, depth };
 }
 
 export function projectedCakeBounds(viewport: ViewportConfig) {

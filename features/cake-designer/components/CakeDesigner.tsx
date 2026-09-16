@@ -8,18 +8,15 @@ import {
   FolderOpen,
   House,
   SlidersHorizontal,
+  Sparkle,
   UploadSimple,
 } from "@phosphor-icons/react";
 import Link from "next/link";
 import { useEffect, useRef } from "react";
 import { deserializeDesign, loadDesignLocal, saveDesignLocal, serializeDesign } from "../persistence/design-serializer";
-import {
-  selectCanRedo,
-  selectCanUndo,
-  selectDesign,
-  useCakeDesignerStore,
-} from "../store/cake-designer.store";
+import { selectCanRedo, selectCanUndo, selectDesign, useCakeDesignerStore } from "../store/cake-designer.store";
 import { AssetLibrary } from "./AssetLibrary";
+import { BeautyPreview } from "./BeautyPreview";
 import { CakeCanvas } from "./CakeCanvas";
 import { CakeViewSwitcher } from "./CakeViewSwitcher";
 import { PropertiesPanel } from "./PropertiesPanel";
@@ -33,13 +30,15 @@ export function CakeDesigner() {
   const canUndo = useCakeDesignerStore(selectCanUndo);
   const canRedo = useCakeDesignerStore(selectCanRedo);
   const replaceDesign = useCakeDesignerStore((state) => state.replaceDesign);
+  const loadReferencePreset = useCakeDesignerStore((state) => state.loadReferencePreset);
+  const previewOpen = useCakeDesignerStore((state) => state.previewOpen);
   const copy = useCakeDesignerStore((state) => state.copySelected);
   const paste = useCakeDesignerStore((state) => state.paste);
   const duplicate = useCakeDesignerStore((state) => state.duplicateSelected);
   const remove = useCakeDesignerStore((state) => state.removeSelected);
   const selectItem = useCakeDesignerStore((state) => state.selectItem);
   const selectedItemId = useCakeDesignerStore((state) => state.selectedItemId);
-  const setZoom = useCakeDesignerStore((state) => state.setZoom);
+  const setViewTransform = useCakeDesignerStore((state) => state.setViewTransform);
   const status = useCakeDesignerStore((state) => state.statusMessage);
   const setStatus = useCakeDesignerStore((state) => state.setStatus);
   const setPropertiesOpen = useCakeDesignerStore((state) => state.setPropertiesOpen);
@@ -51,8 +50,7 @@ export function CakeDesigner() {
       const command = event.ctrlKey || event.metaKey;
       if (command && event.key.toLowerCase() === "z") {
         event.preventDefault();
-        if (event.shiftKey) redo();
-        else undo();
+        if (event.shiftKey) redo(); else undo();
       } else if (command && event.key.toLowerCase() === "y") {
         event.preventDefault(); redo();
       } else if (command && event.key.toLowerCase() === "c") {
@@ -71,7 +69,7 @@ export function CakeDesigner() {
 
   useEffect(() => {
     if (!status) return;
-    const timeout = window.setTimeout(() => setStatus(null), 2400);
+    const timeout = window.setTimeout(() => setStatus(null), 2600);
     return () => window.clearTimeout(timeout);
   }, [setStatus, status]);
 
@@ -92,10 +90,10 @@ export function CakeDesigner() {
     const url = URL.createObjectURL(blob);
     const link = document.createElement("a");
     link.href = url;
-    link.download = "layerz-cake-design.json";
+    link.download = "strawberry-cocoa-cake-design.json";
     link.click();
     URL.revokeObjectURL(url);
-    setStatus("Đã xuất tệp thiết kế JSON.");
+    setStatus("Đã xuất thiết kế JSON.");
   };
 
   return (
@@ -103,14 +101,15 @@ export function CakeDesigner() {
       <header className={styles.topbar}>
         <div className={styles.brandArea}>
           <Link href="/" className={styles.homeButton} aria-label="Về trang chủ"><House size={19} weight="fill" /></Link>
-          <div><strong>LayerZ Cake Studio</strong><span>Thiết kế 5 góc nhìn</span></div>
+          <div><strong>LayerZ Cake Studio</strong><span>{design.name ?? "Thiết kế 5 góc nhìn"}</span></div>
         </div>
         <div className={styles.historyActions}>
           <button type="button" onClick={undo} disabled={!canUndo} aria-label="Hoàn tác"><ArrowCounterClockwise size={19} /></button>
           <button type="button" onClick={redo} disabled={!canRedo} aria-label="Làm lại"><ArrowClockwise size={19} /></button>
-          <button type="button" onClick={() => setZoom(1)} className={styles.resetView}>Vừa khung</button>
+          <button type="button" onClick={() => setViewTransform(1, 0, 0)} className={styles.resetView}>Vừa khung</button>
         </div>
         <div className={styles.fileActions}>
+          <button type="button" onClick={loadReferencePreset} className={styles.presetAction}><Sparkle size={18} /><span>Mẫu dâu cacao</span></button>
           <button type="button" onClick={loadLocal}><FolderOpen size={18} /><span>Mở nháp</span></button>
           <button type="button" onClick={saveLocal}><FloppyDisk size={18} /><span>Lưu nháp</span></button>
           <button type="button" onClick={exportJson} className={styles.primaryAction} aria-label="Xuất JSON"><DownloadSimple size={18} /><span>Xuất JSON</span></button>
@@ -132,14 +131,14 @@ export function CakeDesigner() {
       }} />
 
       <div className={styles.importStrip}>
-        <span>Thiết kế được lưu bằng dữ liệu bề mặt, không phụ thuộc canvas.</span>
+        <span>Bắt đầu từ mẫu, rồi đổi lời chúc, màu và chi tiết theo ý bạn.</span>
         <button type="button" onClick={() => fileInputRef.current?.click()}><UploadSimple size={16} /> Nhập JSON</button>
       </div>
 
       <div className={styles.workspace}>
         <AssetLibrary />
         <section className={styles.canvasColumn} aria-label="Không gian thiết kế">
-          <CakeCanvas />
+          {previewOpen ? <BeautyPreview /> : <CakeCanvas />}
           <CakeViewSwitcher />
         </section>
         <PropertiesPanel />
