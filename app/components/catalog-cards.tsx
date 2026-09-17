@@ -1,7 +1,7 @@
 "use client";
 
 import Image from "next/image";
-import { ArrowUpRight, CheckCircle, MapPin, Sparkle, Star } from "@phosphor-icons/react";
+import { ArrowRight, ArrowUpRight, CheckCircle, MapPin, Sparkle, Star } from "@phosphor-icons/react";
 import type { Product, Shop } from "@/lib/catalog";
 
 function cleanDisplayText(value: string) {
@@ -85,12 +85,13 @@ export function ProductCard({
 
 export function ShopCard({ shop }: { shop: Shop }) {
   const location = shop.district || shop.province;
+  const shopUrl = `https://layerz.vn/artisan/${shop.slug}`;
 
   return (
     <article className="shop-card">
       <a
         className="shop-banner"
-        href={`https://layerz.vn/artisan/${shop.slug}`}
+        href={shopUrl}
         target="_blank"
         rel="noreferrer"
         aria-label={`Xem ${cleanDisplayText(shop.name)}`}
@@ -126,9 +127,27 @@ export function ShopCard({ shop }: { shop: Shop }) {
           )}
         </p>
         <div className="shop-stats">
-          <span>{shop.rating > 0 ? `${shop.rating.toFixed(1)} ★` : "Tiệm mới"}</span>
+          <span className={shop.rating > 0 ? "shop-rating" : "shop-new"}>
+            {shop.rating > 0 ? (
+              <>{shop.rating.toFixed(1)} <Star size={12} weight="fill" aria-hidden="true" /></>
+            ) : "Tiệm mới"}
+          </span>
           <span>{shop.acceptsCustomOrders ? "Nhận custom" : "Bánh có sẵn"}</span>
           {shop.totalOrders > 0 ? <span>{shop.totalOrders} đơn</span> : null}
+        </div>
+        <div className="shop-cta-row">
+          <a href={shopUrl} target="_blank" rel="noreferrer">
+            Xem tiệm <ArrowRight size={18} aria-hidden="true" />
+          </a>
+          <a
+            className="shop-round-link"
+            href={shopUrl}
+            target="_blank"
+            rel="noreferrer"
+            aria-label={`Mở trang ${cleanDisplayText(shop.name)}`}
+          >
+            <ArrowUpRight size={19} aria-hidden="true" />
+          </a>
         </div>
       </div>
     </article>

@@ -12,6 +12,7 @@ import {
   MapPin,
   PaintBrush,
   SealCheck,
+  ShieldCheck,
   ShoppingBag,
   Sparkle,
   Storefront,
@@ -213,10 +214,25 @@ export function HomeExperience({ initialCatalog }: { initialCatalog: HomeCatalog
                   Đổi khu vực
                 </button>
                 <a className="hero-text-link" href="https://layerz.vn/configurator-3d">
-                  Thiết kế bánh riêng
-                  <ArrowRight size={17} aria-hidden="true" />
+                  <span>Thiết kế bánh riêng</span>
+                  <ArrowRight size={21} aria-hidden="true" />
                 </a>
               </div>
+            </div>
+
+            <div className="hero-benefits" aria-label="Lợi ích khi chọn bánh tại LayerZ">
+              <article>
+                <Cake size={28} weight="duotone" aria-hidden="true" />
+                <span><strong>Đa dạng mẫu bánh</strong><small>Cho mọi dịp đặc biệt</small></span>
+              </article>
+              <article>
+                <ShieldCheck size={28} weight="duotone" aria-hidden="true" />
+                <span><strong>Tiệm bánh uy tín</strong><small>Được LayerZ tuyển chọn</small></span>
+              </article>
+              <article>
+                <Heart size={28} weight="duotone" aria-hidden="true" />
+                <span><strong>Gửi trọn yêu thương</strong><small>Qua từng chiếc bánh</small></span>
+              </article>
             </div>
           </div>
 
@@ -259,7 +275,7 @@ export function HomeExperience({ initialCatalog }: { initialCatalog: HomeCatalog
 
         {error ? <div className="page-width error-banner">{error}</div> : null}
 
-        <section className="catalog-section page-width" id="artisans">
+        <section className="catalog-section page-width nearby-section" id="artisans">
           <div className="catalog-heading">
             <div className="title-lockup">
               <span className="section-index" aria-hidden="true">01</span>
