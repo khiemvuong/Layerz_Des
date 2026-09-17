@@ -24,9 +24,9 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
     <html
       lang="vi"
       suppressHydrationWarning
-      className={`${manrope.variable} ${playfair.variable} h-full antialiased`}
+      className={`${manrope.variable} ${playfair.variable} h-full scroll-smooth antialiased`}
     >
-      <body className="min-h-full flex flex-col">{children}</body>
+      <body className="m-0 flex min-h-full flex-col bg-panel font-sans text-ink">{children}</body>
     </html>
   );
 }
